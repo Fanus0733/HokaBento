@@ -1,0 +1,671 @@
+sentence,clean_text,sentimen,label_sentimen
+"Salah satu cabang hokben yang lama berdiri di surabaya, menempati area di salah satu pusat perbelanjaan di tengah kota surabaya yakni Surabaya Plaza lt Ground …","salah cabang hokben berdiri surabaya, menempati area salah pusat perbelanjaan kota surabaya surabaya plaza lt ground …",0.0,0
+"Cukup bagus untuk tempat dan pelayananya. Lokasinya berada di lantai 1. Cukup bersih, dan pelayannya juga ramah. Terus ditingkatkan","bagus pelayananya. lokasinya lantai 1. bersih, pelayannya ramah. ditingkatkan",0.0,0
+"Tempat nyaman karena tidak begitu ramai, pegawai ramah, pelayanan cukup cepat. Disini pesan Hokkaido Miso Ramen Reguler, rasanya enak tapi porsinya agak mini yaa","nyaman ramai, pegawai ramah, pelayanan cepat. pesan hokkaido miso ramen reguler, enak porsinya mini yaa",0.0,0
+"Tempatnya dekat sama gokana dan gramedia. Paling suka disini salad nya sama mayonya bener bener enak pol!!. Kalo kesini sering beli hoka hemat, pelayanannya juga ramah dan cepat, pembayaran bisa pake tunai dan qris. Worth it banget makan disini!!","tempatnya gokana gramedia. suka salad nya mayonya bener bener enak pol!!. kalo kesini beli hoka hemat, pelayanannya ramah cepat, pembayaran pake tunai qris. worth it banget makan disini!!",0.471,1
+"Ini aku makan sebelum PPKM di Jawa & Bali ya. Kita juga ttep ikutin prokes kok. Aku udah berkali” beli makan disini. Harganya juga affordable & Hokben ngk diragukan lagi udah pasti enak. Cuma sorry,agak kurang sama pelayanannya. Aku pesen 1 …","makan ppkm jawa & bali ya. ttep ikutin prokes kok. udah berkali” beli makan disini. harganya affordable & hokben ngk diragukan udah enak. sorry,agak pelayanannya. pesen 1 …",0.0,0
+Tempatnya sangat bersih dan luas. Pelayanan nya sangat cepat dan memuaskan. Semua makanan dihidangkan dengan sangat fresh dan tetap hangat. Banyak pilihan menu yang bisa dipilih. Makanan jepang nya sudah disesuaikan dengan lidah orang …,tempatnya bersih luas. pelayanan nya cepat memuaskan. makanan dihidangkan fresh hangat. pilihan menu dipilih. makanan jepang nya disesuaikan lidah orang …,0.3182,1
+"✓ selalu fresh dan yummii. ✓ daging tebal dan ga krasa pengawet, beda dgn daging frozen lainnya. ✓ menu baru ramen.. varian hokkaido miso enakk otentik, butter req pisah. …","✓ fresh yummii. ✓ daging tebal ga krasa pengawet, beda dgn daging frozen lainnya. ✓ menu ramen.. varian hokkaido miso enakk otentik, butter req pisah. …",0.3182,1
+"Suasana tempatnya selalu lumayan rame kalau disini. Cocok juga untuk yang punya acara besar, seperti reuni, buka bersama (kalau lagi bulan puasa), atau ulang tahun bisa juga di tempat makan ini. Makanan dan minumannya ga perlu diragukan lagi lah yaa, pasti enaknya. Harga sesuai dengan masakkannya. Tempat bersih. Overall good~","suasana tempatnya lumayan rame disini. cocok acara besar, reuni, buka (kalau puasa), ulang makan ini. makanan minumannya ga diragukan yaa, enaknya. harga sesuai masakkannya. bersih. overall good~",0.0,0
+"Makanan nya tetap terbaik, dan tidak berubah, segar dan tidak bikin eneg. Senang bisa kembali ke tempat dulu semasa kuliah di surabaya. Tempat pilihan …","makanan nya terbaik, berubah, segar bikin eneg. senang kuliah surabaya. pilihan …",0.0,0
+"Tiap ke Delta slalu mampir! Mau lagiii, dan lagiii.. 😋 …","delta slalu mampir! lagiii, lagiii.. 😋 …",0.0,0
+"Walaupun aku datang di jam makan malam, tapi tetep banyak kursi kosong yg tersisa. Jadi ga perlu bingung atau antri lama buat duduk. Karena ini fast food, pelayanannya juga cepat. Cuma sayang kebersihan lantainya kurang dijaga. Di depan …","jam makan malam, tetep kursi kosong yg tersisa. ga bingung antri duduk. fast food, pelayanannya cepat. sayang kebersihan lantainya dijaga. …",0.0,0
+"Makanannya enak, tempat nyaman, pelayanan baik, harga wajar","makanannya enak, nyaman, pelayanan baik, harga wajar",0.0,0
+HokBen selalu menjadi salah satu kesukaan kita sekeluarga. Kebetulan abis nonton bioskop trus laper....jadi kita maem disini dech. Tempatnya bersih dan pelayanannya baik. So.....thanks HokBen and all crew 😉🙏🏼 …,hokben salah kesukaan sekeluarga. abis nonton bioskop trus laper....jadi maem dech. tempatnya bersih pelayanannya baik. so.....thanks hokben and all crew 😉🙏🏼 …,0.0,0
+"Makanan seperti biasa hokben ga pnh gagal ya. Selalu enak. Cuma.. Kemaren, pas makan disana, di lantai ada kecoak kecil. Saya krg tau apakah restonya yg krg bersih atau gimana.. Mgkn lbh diperhatikan ya.. Ini kali pertama setelah …","makanan hokben ga pnh gagal ya. enak. cuma.. kemaren, pas makan disana, lantai kecoak kecil. krg tau restonya yg krg bersih gimana.. mgkn lbh diperhatikan ya.. kali …",0.0,0
+"Pesan paket Premium Set dengan pilihan daging sapi dan ayam. Paket Premium Set disajikan lengkap dengan salad ala Jepang, snack, dan minuman ocha. Untuk snack terdapat varian yang berbeda antara paket beef dan chicken. Pilihan saus beragam, …","pesan paket premium set pilihan daging sapi ayam. paket premium set disajikan lengkap salad ala jepang, snack, minuman ocha. snack varian berbeda paket beef chicken. pilihan saus beragam, …",0.0,0
+"Pernah hari puasa datang ke sini, meja2 sisa pengunjung tidak langsung di bersihkan. Jadi sulit cari meja bersih. Tapi untuk hari2 biasa lumayan sepi. Penyuka bento wajib ke sini apalagi saladnya","puasa sini, meja2 sisa pengunjung langsung bersihkan. sulit cari meja bersih. hari2 lumayan sepi. penyuka bento wajib saladnya",0.0,0
+Nunggu makanan lama sekali ...katanya 5 menit...masakan yang ada malah di kasih kan ke orang lain...pdhl sudah tunggu lama,nunggu makanan ...katanya 5 menit...masakan kasih orang lain...pdhl tunggu,0.0,0
+for the food I really like it and spicy ramen large is one of my favorite meals ☺️ but I don't really like the service because it takes about 1 hour to order 1 meal and that takes a long time. 😀 …,for the food i really like it and spicy ramen large is one of my favorite meals ☺️ but i don't really like the service because it takes about 1 hour to order 1 meal and that takes a long time. 😀 …,0.764,1
+"Payahhh mentang² saya baru pertama kali makan di hokben pesanan saya ga dikasih nasi, eh besoknya teman saya beli menu yang sama ternyata dikasih nasi🥴 …","payahhh mentang² kali makan hokben pesanan ga dikasih nasi, eh besoknya teman beli menu dikasih nasi🥴 …",0.0,0
+sayang nggak ada wastafel. atau aku yang nggak tau ya?,sayang nggak wastafel. nggak tau ya?,0.0,0
+"Terletak di lantai dasar, pojok, dekat ATM Center dan Gokana. Tempat luas dan bersih, pelayanan baik.","terletak lantai dasar, pojok, atm center gokana. luas bersih, pelayanan baik.",0.0,0
+Both of service and food are good and also the place is so clean and neat. The salad is my fav😍💕 …,both of service and food are good and also the place is so clean and neat. the salad is my fav😍💕 …,0.8643,1
+"Honestly, mostly foods are tasty. TAPI sometimes kualitas makanan ada yang kurang dijaga. Contoh salmon yg kurang segar jadi baunya amis-amis busuk, sup yang kadang tawar dll. Hari ini sy pesan Super Bowl karena promo dan NORI-nya waaah …","honestly, mostly foods are tasty. sometimes kualitas makanan dijaga. contoh salmon yg segar baunya amis-amis busuk, sup kadang tawar dll. sy pesan super bowl promo nori-nya waaah …",0.7845,1
+✓ Best food ✓ Best service ✓ Best price …,✓ best food ✓ best service ✓ best price …,0.9274,1
+Untuk rasa makanan khas Jepang ini semua pasti sudah tau jadi jangan ditanya lagi. Untuk tempat sih rekomen kalau mau menyendiri atau juga sambil ngobrol2 santai dengan teman karna tempatnya tidak terlalu ramai dan berada dipojokan delta …,makanan khas jepang tau lagi. sih rekomen menyendiri ngobrol2 santai teman karna tempatnya ramai dipojokan delta …,0.0,0
+Baru pertama kali ke HokBen.. Menu baru fried chicken nya bau.. Sya pesen 4 pcs.. 2 nya bau.. Rasanya pun kalah jauh sama KFC.. Beef Yakinikunya juga biasa..,kali hokben.. menu fried chicken nya bau.. sya pesen 4 pcs.. 2 nya bau.. kalah kfc.. beef yakinikunya biasa..,0.0,0
+Pelayanan nya terlalu lama masak pesan yg pertama malah di selat sama orang yg baru datang sedangkan saya nunggu udah 1 jam belum ada pelayanan,pelayanan nya masak pesan yg selat orang yg nunggu udah 1 jam pelayanan,0.0,0
+"Tempatnya luas, suasana nyaman, pelayanan juga oke. Menu favoritku value set, soalnya dah dapet lauk+salad, nasi, ocha & sup juga. Menu untuk anak-anak juga ada lho.","tempatnya luas, suasana nyaman, pelayanan oke. menu favoritku value set, dah dapet lauk+salad, nasi, ocha & sup juga. menu anak-anak lho.",0.34,1
+"Salah satu tenant restoran di Plaza Surabaya yang sudah tidak asing di telinga kita. HOKA-HOKA BENTO, masakan ala Jepang ini sudah terkenal. salah satunya di Plaza Surabaya. …","salah tenant restoran plaza surabaya asing telinga kita. hoka-hoka bento, masakan ala jepang terkenal. salah satunya plaza surabaya. …",0.0,0
+Selalu jadi makanan favorit.. Paling suka pesan menu hoka hemat dan menu value set karena sudah dapat minuman ocha. Tempatnya tidak terlalu ramai dan selalu ada tempat kosong disana. Untuk pelayanan kadang sangat lama karena yang melayani kadang hanya 2 orang saja (bagian pemesanan dan kasir). Untuk pelayanan perlu diperbaiki lagi.,makanan favorit.. suka pesan menu hoka hemat menu value set minuman ocha. tempatnya ramai kosong disana. pelayanan kadang melayani kadang 2 orang (bagian pemesanan kasir). pelayanan diperbaiki lagi.,0.34,1
+"Menu khas ala² japan yg banyak di suka anak² dan remaja bahkan orang tua....masalah suka dan tidak itu selera, tapi ini lumayan bagi yg suka jajan kalo pas bosen menu nusantara 😁 😁 😁 …","menu khas ala² japan yg suka anak² remaja orang tua....masalah suka selera, lumayan yg suka jajan kalo pas bosen menu nusantara 😁 😁 😁 …",0.0,0
+"Gatau kenapa tapi rasanya lebih enak dri hokben lainnya, pegawainya ramah yg di mall sebelah pegawainya jutek","gatau enak dri hokben lainnya, pegawainya ramah yg mall sebelah pegawainya jutek",0.0,0
+Tempatnya nyaman bgt buat makan bersama keluarga dan sahabat. Menunya bervariatif,tempatnya nyaman bgt makan keluarga sahabat. menunya bervariatif,0.0,0
+Pelayanan sangat ramah .. dan ok cepat respon pegawainya dan yaman makanan enak siip pokoknya,pelayanan ramah .. ok cepat respon pegawainya yaman makanan enak siip pokoknya,0.296,1
+"Rasanya masih otentik, terutama chicken roll nya, super","otentik, chicken roll nya, super",0.5994,1
+"Untuk ojol,mohon kalo resto belum buka jgn dibuka dulu aplikasinya (SHOPEE,GOJEK, GRAB)","ojol,mohon kalo resto buka jgn dibuka aplikasinya (shopee,gojek, grab)",0.0,0
+"Terletak di lantai 1, lokasi tempat ini mudah ditemukan dari pintu barat plaza surabaya. Kursi kursinya pun banyak, tidak perlu khawatir tidak dapat tempat duduk meskipun di bulan puasa. Harga dan paket yang ditawarkan pun sama seperti …","terletak lantai 1, lokasi mudah ditemukan pintu barat plaza surabaya. kursi kursinya banyak, khawatir duduk puasa. harga paket ditawarkan …",0.0,0
+"place is gud but the dish taste so bad, the chicken flour is way too thick makes my jaw got heavy exercise, and the meat is raw, as you can see it looks like a baseball bat","place is gud but the dish taste so bad, the chicken flour is way too thick makes my jaw got heavy exercise, and the meat is raw, as you can see it looks like a baseball bat",-0.6107,0
+Tempat nyaman n makanannya enak..harga standart..,nyaman n makanannya enak..harga standart..,0.0,0
+"Bersih, nyaman, harga sesuai👍dengan menu. Pelayanan baik. Semoga sukses 🙏 …","bersih, nyaman, harga sesuai👍dengan menu. pelayanan baik. semoga sukses 🙏 …",0.0,0
+Hokben Makan siang dulu Menu favorit buat anak anak pada doyan,hokben makan siang menu favorit anak anak doyan,0.0,0
+"Nasinya nggak nentu, kadang dikit, kadang agak banyakan. Tapi seringnya lebih ke dikit sih nasinya. Kalo nasinya lebih banyakan bisa lah B5. Overall lauk pauknya enak, cuman minus nasi aja kedikitan","nasinya nggak nentu, kadang dikit, kadang banyakan. dikit sih nasinya. kalo nasinya banyakan b5. overall lauk pauknya enak, cuman minus nasi aja kedikitan",0.0,0
+"Saya order via ojol, lumayan cepat: cuma 20 menit sudah sampai, tapi Egg chicken rollnya terlalu kering, mungkin karena sudah terlalu lama di jalan (?)","order via ojol, lumayan cepat: 20 menit sampai, egg chicken rollnya kering, jalan (?)",0.0,0
+"Good choice for a quick meal, as the place is usually quiet and fast service. All set menus are great, I love the chicken teriyaki set, cooked nicely and tender meat. Clean and spacious place, and not noisy unless there is a kid birthday party. Free refill if you buy Ocha.","good choice for a quick meal, as the place is usually quiet and fast service. all set menus are great, i love the chicken teriyaki set, cooked nicely and tender meat. clean and spacious place, and not noisy unless there is a kid birthday party. free refill if you buy ocha.",0.973,1
+"makanannya enak dan cukup terjangkau. terlebih lagi pelayanannya sangat baik, ramah, dan cukup cepat. terima kasih","makanannya enak terjangkau. pelayanannya baik, ramah, cepat. terima kasih",0.0,0
+Biasanya daging bida req di sini ga bisa Pelayanan lama Bikin ngga enak makan …,daging bida req ga pelayanan bikin ngga enak makan …,0.0,0
+"Mbak nya ga asik. Pilih kasih. Saya ga dibolehin beli Paket happy bundling bln februari, dibilangnya berlaku senin-jumat pdhl di depan store tertera berlaku setiap hari. Setelah saya bayar, pembeli setelah saya dibolehin beli paket happy bundling. Khan ngeselin.","mbak nya ga asik. pilih kasih. ga dibolehin beli paket happy bundling bln februari, dibilangnya berlaku senin-jumat pdhl store tertera berlaku hari. bayar, pembeli dibolehin beli paket happy bundling. khan ngeselin.",0.8126,1
+"Mantaps, tempatnya masih sama dari jaman dulu, banyak kenangan di sini","mantaps, tempatnya jaman dulu, kenangan",0.0,0
+"Enak, ga eneg, murce krn ada promo makanya banyakin promo entar sering mampir","enak, ga eneg, murce krn promo banyakin promo entar mampir",0.0,0
+Hoben merupakan salah satu resto dengan menu andalan cepat sajinya. Kalau kesini sih aku lebih suka gorengan-gorengan kaya chicken egg roll nya paling demen. …,hoben salah resto menu andalan cepat sajinya. kesini sih suka gorengan-gorengan kaya chicken egg roll nya demen. …,0.0,0
+Pelayan tidak welcome sama pelanggan. Tanya menu katanya tidak ada. Sampai saya harus kedepan pintu masuknya. Setelah kembali ternyata menu ada di flyer dan baru dikasih. TOLONG JANGAN MEMPERMAINKAN DONG. MASAK DITANYA MENU TIDAK ADA. …,pelayan welcome pelanggan. menu ada. kedepan pintu masuknya. menu flyer dikasih. tolong mempermainkan dong. masak menu ada. …,0.4588,1
+"Klo pingin makan kenyang dan enak.. Ya di sini tempatnya.. Paling suka supnya.. Bisa refill teh oca sepuasnya.. Bagi yg suka ya.. 😅, disini antri banget.. Tempatnya juga bagus. …","klo pingin makan kenyang enak.. ya tempatnya.. suka supnya.. refill teh oca sepuasnya.. yg suka ya.. 😅, antri banget.. tempatnya bagus. …",0.0,0
+"Pelayanan ramah, tempat bersih, makanan sesuai menu, tersedia banyak tempat, luas, sejuk","pelayanan ramah, bersih, makanan sesuai menu, tersedia tempat, luas, sejuk",0.0,0
+Uma!! Gak usah diragukan lagi taste nya,uma!! gak diragukan taste nya,0.0,0
+"Suka sekali mampir kesini klo ke delta palza tp gak ada area bermain anak ,","suka mampir kesini klo delta palza tp gak area bermain anak ,",0.0,0
+"Good place for lunch or dinner Located inside the mall The staffs were friendly and helpful, the food was also good","good place for lunch or dinner located inside the mall the staffs were friendly and helpful, the food was also good",0.8957,1
+Menu ini enak bgt banyak variasinya,menu enak bgt variasinya,0.0,0
+"Selalu kangen dg salad, ekkado n beef nya Untuk tempat ok sih","kangen dg salad, ekkado n beef nya ok sih",0.296,1
+"Maaf untuk pelayanan kurang menyenangkan, booking tempat untuk buka puasa katanya secara tidak langsung tidak bisa (meskipun booking tempat nanti juga sama"" Ngantri normal). Coba nilai sendiri ya 👍 padahal saya cuma mau sama istri saya aja makan disini. Terima kasih 🙏💕 …","maaf pelayanan menyenangkan, booking buka puasa langsung (meskipun booking sama"" ngantri normal). coba nilai ya 👍 istri aja makan disini. terima kasih 🙏💕 …",0.0,0
+"Sebenernya enak sih makanannya, tapi kdng agak kotor ajasih. Ga parah.","sebenernya enak sih makanannya, kdng kotor ajasih. ga parah.",0.0,0
+"Lumayan sering mampir untuk makan malam saat berkunjung di Plaza Mall Surabaya bersama keluarga karena selain makanannya yang enak dan mengenyangkan, ada paket value set yang lumayan ramah didompet. Pelayanannya ramah dan sabar serta tempatnya nyaman.","lumayan mampir makan malam berkunjung plaza mall surabaya keluarga makanannya enak mengenyangkan, paket value set lumayan ramah didompet. pelayanannya ramah sabar tempatnya nyaman.",0.34,1
+Enak makannya Ramah pelayanannya Tempatnya luas dan bersih serta santai,enak makannya ramah pelayanannya tempatnya luas bersih santai,0.0,0
+"Tempatnya luas, bersih, makananny enak,stafnya juga ramah","tempatnya luas, bersih, makananny enak,stafnya ramah",0.0,0
+"Sudah sering sejak dulu makan disini, kemarin nyobain menu baru ramen. Enak. Yang bikin kehilangan adalah tempat duduk khas yg kainya bisa masuk seperti dulu. Bukan kursi sekarang ini.","makan disini, kemarin nyobain menu ramen. enak. bikin kehilangan duduk khas yg kainya masuk dulu. kursi ini.",0.0,0
+suka egg chiken rollnya.. suka salad nyaa tapi suka sedih kalo pas dapet salad makin dikit😂😂😂😂 …,suka egg chiken rollnya.. suka salad nyaa suka sedih kalo pas dapet salad dikit😂😂😂😂 …,0.0,0
+"Hokben disini tidak terlalu ramai jdi cocok untuk yg mau makan malam bersama teman sambil nongki. Untuk makanan jangan ditanya ya, pasti enak. Untuk yg mau hemat pesan aja value set upgrade dumpling cuma +5rb udah worth it banget dapet minum ocha","hokben ramai jdi cocok yg makan malam teman nongki. makanan ya, enak. yg hemat pesan aja value set upgrade dumpling +5rb udah worth it banget dapet minum ocha",0.5719,1
+"Tempatnya bersih dan nyaman lalu tidak seberapa ramai jadi santai, tersedia pilihan menu, yaa overall sih okeeehhh","tempatnya bersih nyaman ramai santai, tersedia pilihan menu, yaa overall sih okeeehhh",0.0,0
+Terlalu lama karyawan banyak kayak gitu gak mau keluar cara melayani castamer gak ada,karyawan kayak gitu gak melayani castamer gak,0.0,0
+"Makanan over all enak soalnya standart disemua hokben sama, layanan juga okr suasana agak sedikit berantakan mungkin karena rame jadi telat cleaningnya dan pengunjung nya pada males bebersih sendiri habis makan","makanan over all enak standart disemua hokben sama, layanan okr suasana berantakan rame telat cleaningnya pengunjung nya males bebersih habis makan",0.0,0
+"Tempatnya cukup luas, dekat sama ATM center, jadi kalau tidak ada cash, bisa tarik tunai dulu. Tempatnya bersih, pelayannya juga ramah-ramah. Menyediakan minuman (teh ocha) gratis isi ulang, disamping tempat sambal dan saos.","tempatnya luas, atm center, cash, tarik tunai dulu. tempatnya bersih, pelayannya ramah-ramah. menyediakan minuman (teh ocha) gratis isi ulang, disamping sambal saos.",0.0516,1
+Pegawai cewek gemuk yg sopan lihat kl orderan dah jadi knp driver suruh duduk nunggu.itu orderan dr tadi lol.cumqn drivernya ngambil orderan dr resto satunya.kebetulan dpat orderan sekaligus. Pegawai cewek gemuk,pegawai cewek gemuk yg sopan lihat kl orderan dah knp driver suruh duduk nunggu.itu orderan dr lol.cumqn drivernya ngambil orderan dr resto satunya.kebetulan dpat orderan sekaligus. pegawai cewek gemuk,0.0,0
+"Menu buat dewasa dan anak-anak ada, enak, nyaman.","menu dewasa anak-anak ada, enak, nyaman.",0.0,0
+Resto favorit keluarga kami. Ada yg lesehan dgn posisi kaki di bawh meja. Seruuu,resto favorit keluarga kami. yg lesehan dgn posisi kaki bawh meja. seruuu,0.0,0
+"Hokben oh hokben. Baru kali ini aku kecewa sekali dengan performamu. Semua baik baik saja sampai aku yang bodoh ini mencoba untuk pesan menu barumu yang unagi itu. Pas datang astaganaga baunya nyengat banget, bukan bau fresh atau sausnya …","hokben oh hokben. kali kecewa performamu. bodoh mencoba pesan menu barumu unagi itu. pas astaganaga baunya nyengat banget, bau fresh sausnya …",0.3182,1
+Dari dulu makananya mantap,makananya mantap,0.0,0
+Enakkkk. Pas di kantong.,enakkkk. pas kantong.,0.0,0
+"saya pesan take away dijanjikan kasir tunggu 8-10menit, waktu saya tagih lebih 15 menit, kasirnya ganti dan bilang sabar mas yg bikinkan cuma 1. WOw kalo gitu jgn janji dan sama coutomers yg lebih ramah, parah2!!!","pesan take away dijanjikan kasir tunggu 8-10menit, tagih 15 menit, kasirnya ganti bilang sabar mas yg bikinkan 1. wow kalo gitu jgn janji coutomers yg ramah, parah2!!!",0.6884,1
+Tempat makan HokBen favorit di Surabaya dari jaman kuliah.,makan hokben favorit surabaya jaman kuliah.,0.0,0
+nggak afdol kalo ngga nambah salad 😋😋 …,nggak afdol kalo ngga nambah salad 😋😋 …,0.0,0
+"Menunya lumayan banyak pilihan,suasana pas saya makan tidak terlalu ramai,pelayanan cepat","menunya lumayan pilihan,suasana pas makan ramai,pelayanan cepat",0.0,0
+kangen duduk nya yang lesehan dulu,kangen duduk nya lesehan,0.0,0
+Sepi ya skg delta. Jd aga krg fresh de gorengane ya d tingkatkan biar g terlihat suram g ad musik ato apa sunyi senyap,sepi ya skg delta. jd aga krg fresh de gorengane ya d tingkatkan biar g suram g ad musik ato sunyi senyap,0.3182,1
+Tempat nyaman dengan makanan jepang yang cocok di lidah orang indonesia. Dengan harga terjangkau.,nyaman makanan jepang cocok lidah orang indonesia. harga terjangkau.,0.0,0
+Tolong bagi pihak resto ni aplikasinya udh buka jam 8 pagi tapi knpa sya pas dpat orderan jam 9 30 makananya belom da yg masak semua.. Tolong d perhatikan kasihan kita sebagai driver harus nunggu sampai 30 atau menit karna waktu kami sebagai driver sangatlah berharga,tolong resto ni aplikasinya udh buka jam 8 pagi knpa sya pas dpat orderan jam 9 30 makananya belom da yg masak semua.. tolong d perhatikan kasihan driver nunggu 30 menit karna driver berharga,0.0,0
+"Setiap senin ada promo buy 1 get 1 bento spesial dengan menggunakan uob one card atau niaga paywave.. bisa juga menggunakan aplikasi dana dapat cashback 50% maks. 25k, kalau aplikasi gopay cashback 20% maks 20k.. rasa standart tapi untuk menu cemilan lebih enak hokben daripada yoshinoya, menurut saya..","senin promo buy 1 get 1 bento spesial uob one card niaga paywave.. aplikasi dana cashback 50% maks. 25k, aplikasi gopay cashback 20% maks 20k.. standart menu cemilan enak hokben yoshinoya, saya..",0.0,0
+Makanan yang dikangenin. Kadang pakai mobile payment bisa dapat lebih murah.,makanan dikangenin. kadang pakai mobile payment murah.,0.0,0
+Pelayanan buruk datang pertama Ndak di layani udah kelewat 2orang,pelayanan buruk ndak layani udah kelewat 2orang,0.0,0
+"Menu baru (salad bowl) nya enak, dan sudah tidak ada pilihan rasa saus untuk saladnya, entah itu karena sisa 1 rasa atau memang sudah di modifikasi dan improvisasi, sehingga saus yg baru rasa lebih enak","menu (salad bowl) nya enak, pilihan saus saladnya, sisa 1 modifikasi improvisasi, saus yg enak",0.0,0
+"Resto Jepang yg bukan produk Jepang ini selalu jd andalan di saat perut keroncongan, value dan favorite set menu paling favorit...cuma skrg kalau jam makan siang kasian pelayanannya agak kerepotan krn hrs berjibaku melayani customer biasa dan pak grab dan gojek, Semangat Terus dan sukses !!!","resto jepang yg produk jepang jd andalan perut keroncongan, value favorite set menu favorit...cuma skrg jam makan siang kasian pelayanannya kerepotan krn hrs berjibaku melayani customer grab gojek, semangat sukses !!!",0.7412,1
+"Tempatnya strategis depan penginapan saya,tinggal nyebrang aja..letak hokben.nya deket sama miniso..jadi kalo kesini sblm makan mampir dulu ke miniso ato sebaliknya..hehe..menu.nya ada teriyaki,yakiniku,shrimp.roll dll.tpi yang paling aku …","tempatnya strategis penginapan saya,tinggal nyebrang aja..letak hokben.nya deket miniso..jadi kalo kesini sblm makan mampir miniso ato sebaliknya..hehe..menu.nya teriyaki,yakiniku,shrimp.roll dll.tpi …",0.0,0
+"Sebenarnya rasa masih paling enak, tetapi saladnya sekarang menyedihkan 😭😭😭... biasanya sih full kol timbang wortel tapi porsi lebih banyak dulu... sekarang 😣😣 …","enak, saladnya menyedihkan 😭😭😭... sih full kol timbang wortel porsi dulu... 😣😣 …",0.0,0
+"Merupakan jalan keluar untuk memilih tempat makan. Saya rasa semua hokben sama saja. Setelah beberapa kali kesini, menjelang tutup sekitar jam 9 pasti ada makanan yang tidak lengkap. Jadi kalau mau lengkap lebih baik datang pas jam makan malam.","jalan memilih makan. hokben saja. kali kesini, menjelang tutup jam 9 makanan lengkap. lengkap pas jam makan malam.",0.0,0
+"Tempatnya sangat Nyaman dan Makanannya sangat2 Enak dan Lezat 👍👍👍 harganya pun terjangkau juga, pokoknya sangat2 Cocok untuk sekeluarga. …","tempatnya nyaman makanannya sangat2 enak lezat 👍👍👍 harganya terjangkau juga, pokoknya sangat2 cocok sekeluarga. …",0.0,0
+"Semoga tidak terulang lagi..ksalahan pemberian pesanan. Saat order via gofood. Karena walapun pihak resto mau antar ulang, sy tetap dirugikan krn mnunggu lbh lama.makasi","semoga terulang lagi..ksalahan pemberian pesanan. order via gofood. walapun resto ulang, sy dirugikan krn mnunggu lbh lama.makasi",0.0,0
+"pelayanan lama,makanan tidak ready ( shumay steam ) restaurant fast food TAPI gak READY ( agak aneh ) ada pesanan baru d buat.sudah pesan minta d batalkan krn gak READY,tapi kata krywn nya sudah terlanjur dibuat, ok d tunggu 15menit.setelah …","pelayanan lama,makanan ready ( shumay steam ) restaurant fast food gak ready ( aneh ) pesanan d buat.sudah pesan d batalkan krn gak ready,tapi krywn nya terlanjur dibuat, ok d tunggu 15menit.setelah …",0.7351,1
+"Pengalaman di hokben itu pelit sendok padahal menu dipesan 4 ,tapi minta sendok tambahan 2 pcs saja ,sumpit saya langsung diambil 2 sebagai gantinya sendok plastik yg saya minta.itu makan ditempat bukan untuk dibawa.perasan cuman hokben di delta saja pelayanan demikian.saya di tunjungan saja mendapat pelayanan levih memuaskan","pengalaman hokben pelit sendok menu dipesan 4 ,tapi sendok tambahan 2 pcs ,sumpit langsung diambil 2 gantinya sendok plastik yg minta.itu makan ditempat dibawa.perasan cuman hokben delta pelayanan demikian.saya tunjungan pelayanan levih memuaskan",0.0,0
+"Pelayanan ramah,makanannya juga enak..harga terjangkau,g rugi deh kalau ajak teman dan klg makan bersama d hokben delta..","pelayanan ramah,makanannya enak..harga terjangkau,g rugi deh ajak teman klg makan d hokben delta..",0.0,0
+ada outletnya sendiri. luas dan selalu tersedia menunya. tapi promo buy 1 get 1 dengan kartu visa jenius kemarin ga bisa diterima oleh mereka,outletnya sendiri. luas tersedia menunya. promo buy 1 get 1 kartu visa jenius kemarin ga diterima,0.0,0
+"Makin hari, layanan sangat lemot. Tdk di rekomendasikan buat ojol. Sangat lambat","hari, layanan lemot. tdk rekomendasikan ojol. lambat",0.0,0
+"Tempatx ok nyaman ramah n g buru"" diusir kalo kelar makan. Kebtulam kalo buber slu ksna sm kuarga g kayak tmpt mkn yg pdt kalo pas buber"" gt pst ngusir alus wkwk","tempatx ok nyaman ramah n g buru"" diusir kalo kelar makan. kebtulam kalo buber slu ksna sm kuarga g kayak tmpt mkn yg pdt kalo pas buber"" gt pst ngusir alus wkwk",0.5106,1
+"Bagus, bersih, cuman waktu Buka Puasa, staff ditambah, kasian numpuk yang antri buat buka puasa.","bagus, bersih, cuman buka puasa, staff ditambah, kasian numpuk antri buka puasa.",0.0,0
+Pelayanan cepat dan bagus. Makanan enak. Cuma waktu minum ocha nya kerasa bau kecut. Jadi saya beli jenis minuman lain.,pelayanan cepat bagus. makanan enak. minum ocha nya kerasa bau kecut. beli jenis minuman lain.,0.0,0
+"Kenyang abis hehe, suka pelayanannya ramah.. waktu itu ramean bareng keluarga dan sodara, bersih dan well budayakan ngebersihin bekas makanan dimanapun ya, keliatannya kalo ga diberesin tuh jijik nyampah banget","kenyang abis hehe, suka pelayanannya ramah.. ramean bareng keluarga sodara, bersih well budayakan ngebersihin bekas makanan dimanapun ya, keliatannya kalo ga diberesin tuh jijik nyampah banget",0.2732,1
+okee disini,okee,0.0,0
+"Pelayanan cepat, dan juga ramah. Kalau datang saat jam makan siang pasti selalu penuh.","pelayanan cepat, ramah. jam makan siang penuh.",0.0,0
+"Bagus suasananya,tempatnya juga bersih.pelayanan bagus dan cepat sehingga tidak antri","bagus suasananya,tempatnya bersih.pelayanan bagus cepat antri",0.0,0
+"Rasa nya selalu favorit sih, menu hemat nya gak bikin kantong jebol apalagi selalu ada promo gopay atau ovo jadi makin hemat dan bisa makan enak dong pasti nya.","nya favorit sih, menu hemat nya gak bikin kantong jebol promo gopay ovo hemat makan enak nya.",0.0,0
+"Tempat bersih, rapi, kebersihan karyawan terjaga, sayang tiap coustumer datang tdk ada protokol kesehatan tdk di cek suhunya dan disfektannya, dan pelayanannya agak lambat, kurang cepat","bersih, rapi, kebersihan karyawan terjaga, sayang coustumer tdk protokol kesehatan tdk cek suhunya disfektannya, pelayanannya lambat, cepat",0.0,0
+"Mencari makan siang di Plaza Surabaya, Menu Hoka Hoka Bento cukup banyak pilihan dan sedia paket yang murah, cukup enak dan harganya terjangkau. Pelayanannya cukup ramah dan ruang makannya cukup luas dan bersih.","mencari makan siang plaza surabaya, menu hoka hoka bento pilihan sedia paket murah, enak harganya terjangkau. pelayanannya ramah ruang makannya luas bersih.",0.0,0
+Tempat yang cepat dalam pelayanan Menu juga sama seperti kebanyakan restaurant hokben lainnya. Overall rasa dan harga bersahabat. Recommendes untuk pecinta kuliner jepang.,cepat pelayanan menu kebanyakan restaurant hokben lainnya. overall harga bersahabat. recommendes pecinta kuliner jepang.,0.0,0
+"Bersih, waktu buka puasa kurang gercep pegawainya, munkin bisa ditambah.","bersih, buka puasa gercep pegawainya, munkin ditambah.",0.0,0
+Enak sih as usual...tp krg innovative hokben dari dulu nih... Ditambah dong menunya yg variatif gt misal menu bakaran jepang atau apa. Biar gak melulu gorengan n katsu gt...,enak sih as usual...tp krg innovative hokben nih... ditambah menunya yg variatif gt menu bakaran jepang apa. biar gak melulu gorengan n katsu gt...,0.6124,1
+Pelayanan : baik,pelayanan :,0.0,0
+Tempatnya sudah direnovasi jd lebih nyaman..,tempatnya direnovasi jd nyaman..,0.0,0
+Untuk makanan ini selalu ingin untuk mengulanginya lagi,makanan mengulanginya,0.0,0
+Suasana bersih . Pelayanan cepat Makanan enakk,suasana bersih . pelayanan cepat makanan enakk,0.0,0
+"Saya suka menunya, tidak pernah bosan makan HokBen, stafnya ramah, lingkungan bersih,dan jalankan prokes dgn baik","suka menunya, bosan makan hokben, stafnya ramah, lingkungan bersih,dan jalankan prokes dgn",0.0,0
+"Lumayan, pelayananx sudah berubah","lumayan, pelayananx berubah",0.0,0
+Nama nya restoran cepat saji tapi untuk ayam goreng aja masih nunggu 30menit ... Sangat mengecewakan..,nama nya restoran cepat saji ayam goreng aja nunggu 30menit ... mengecewakan..,0.0,0
+Pelayanannya buruk..... 2 kasir cuma jalan 1 kasir aja.... Jadi antri panjang.... Sampai nunggu 1jam... Hufh payah.... Pelayanannya👎👎👎 …,pelayanannya buruk..... 2 kasir jalan 1 kasir aja.... antri panjang.... nunggu 1jam... hufh payah.... pelayanannya👎👎👎 …,0.0,0
+Pelayanan sangat ramah. Area makan cukup luas. Selalu suka sama hadiah-hadiah kidzu bento 😄 …,pelayanan ramah. area makan luas. suka hadiah-hadiah kidzu bento 😄 …,0.0,0
+"Tempatnya kurang menyenangkan, jika ada yg ultah maka tempatnya jadi full bgt, kita orang luar jadi susah mendpat tempat duduk.","tempatnya menyenangkan, yg ultah tempatnya full bgt, orang susah mendpat duduk.",0.0,0
+Saya sdh 3 kali kesini rasanya pas sesuai selera harga sangat sesuai dan terjangkau layanan sangat ramah,sdh 3 kali kesini pas sesuai selera harga sesuai terjangkau layanan ramah,0.0,0
+"Pelayanan cepat, ada jalur antri sesuai jarak aman, ada sanitizer dan pembatas antara pembeli dan karyawan.","pelayanan cepat, jalur antri sesuai jarak aman, sanitizer pembatas pembeli karyawan.",0.0,0
+"The place is not as big as any other outlets, and the seating place is not many too. But the taste is not different. It is yummy indeed!","the place is not as big as any other outlets, and the seating place is not many too. but the taste is not different. it is yummy indeed!",0.7088,1
+"Tempat agak kepojok. Samping racha / gokana. Ancer2 cari aja KFC ato superindo. Lalu tengok ke kanan, ada jalanan kecil, lurus ajah. Samping atm center.","kepojok. samping racha / gokana. ancer2 cari aja kfc ato superindo. tengok kanan, jalanan kecil, lurus ajah. samping atm center.",0.0,0
+"Nasi agak susah diambil dengan sumpit, yang seharusnya mudah bagi restoran yg mengusung konsep bento/Japanese.","nasi susah diambil sumpit, mudah restoran yg mengusung konsep bento/japanese.",0.0,0
+"A decent fast food restaurant, with a very simple and minimalistic design.. it seems there was none of japanese design in the place. …","a decent fast food restaurant, with a very simple and minimalistic design.. it seems there was none of japanese design in the place. …",0.0,0
+"Tempat cozy, ga terlalu rame dan menu lengkap. Cocok buat kalian pecinta hokben","cozy, ga rame menu lengkap. cocok pecinta hokben",0.0,0
+Tempat cukup bersih Tidak terlalu luas …,bersih luas …,0.0,0
+"Hokben disini termasuk lengkap dengan penyajian yang cukup cepat, tempatnya juga agak luas dan anak2 dapat merayakan ultahnya disini","hokben lengkap penyajian cepat, tempatnya luas anak2 merayakan ultahnya",0.0,0
+Tempat nyaman. Pelayanan ramah... Cocok untuk makan bareng keluarga,nyaman. pelayanan ramah... cocok makan bareng keluarga,0.0,0
+tempat makan nyaman dengan menu rasa yang enak dan pas di lidah jadi ga bosen makan disini.,makan nyaman menu enak pas lidah ga bosen makan disini.,0.0,0
+"Pelayanan ya ampun ogah ogahan sama pembeli, nada bicara dan mukanya jutek gak ada senyum sama sekali.","pelayanan ya ampun ogah ogahan pembeli, nada bicara mukanya jutek gak senyum sekali.",0.0,0
+Tempatnya cukup luas.. untuk pesta anak juga bisa. Harga makanan standard fast food..,tempatnya luas.. pesta anak bisa. harga makanan standard fast food..,0.0,0
+"Pelayanannya lumayan lah, makanan enak, tempat luas dan bersih","pelayanannya lumayan lah, makanan enak, luas bersih",0.0,0
+"Dapat kenyangnya,dapat ramahnya dapat murahnya","kenyangnya,dapat ramahnya murahnya",0.0,0
+"Anak-anak suka di sini. Padahal tempatnya standar, ga terlalu luas. Tapi nyaman aja gitu.","anak-anak suka sini. tempatnya standar, ga luas. nyaman aja gitu.",0.0,0
+I've just tried its brand new menu called Tokyo salad bowl which came in a reasonable portion and was so tasty. Just lovely!,i've just tried its brand new menu called tokyo salad bowl which came in a reasonable portion and was so tasty. just lovely!,0.6548,1
+"Pelayananya baik, makananya sangat enak","pelayananya baik, makananya enak",0.0,0
+Hokben di Plaza Surabaya. Menunya bisa di search ya.. Ada menu buat anak2. Bisa buat ultah juga. Porsi cukup.,hokben plaza surabaya. menunya search ya.. menu anak2. ultah juga. porsi cukup.,0.0,0
+selalu puas dan hemat,puas hemat,0.0,0
+"Tempatnya luas, menu nya enak enakk","tempatnya luas, menu nya enak enakk",0.0,0
+Saya driver go jek pesanan kurang minuman sama karyawanya cuman dikasi makanannya aja minumannya tidak diberikan,driver go jek pesanan minuman karyawanya cuman dikasi makanannya aja minumannya,0.0,0
+"Pegawai ramah, saya diberitahu kalau sudah waktu buka","pegawai ramah, diberitahu buka",0.0,0
+Enak.. Ochanya bisa refill. Sayang dumpling gorengnya blum tersedia.,enak.. ochanya refill. sayang dumpling gorengnya blum tersedia.,0.1027,1
+Makanan oke. Minuman (es sarang burung) nggak oke.,makanan oke. minuman (es sarang burung) nggak oke.,0.0,0
+Tempat bersih dan nyaman Ada tempat untuk mengisi daya hp Dan juga pelayanan oke !,bersih nyaman mengisi daya hp pelayanan oke !,0.0,0
+"Agak kotor meja dab kursinya, terutama yg dekat wastafel dan pintu masuk","kotor meja dab kursinya, yg wastafel pintu masuk",0.0,0
+"Tempat yang luas & nyaman dengan konsep baru,sangat cocok buat makan bareng keluarga","luas & nyaman konsep baru,sangat cocok makan bareng keluarga",0.0,0
+Masih sama seperti dulu... Istimewa,dulu... istimewa,0.0,0
+Tempat makan fav di plaza Surabaya,makan fav plaza surabaya,0.4588,1
+Iam not experience but hungry 😀😀😀 …,iam not experience but hungry 😀😀😀 …,0.0,0
+Rasa yang sangat beraneka ragam selalu mmebuat saya ingin makan disini,beraneka ragam mmebuat makan,0.0,0
+"Ngasal aja kalo di takeaway. Ga dikasih mayo, acar salad seupritttt","ngasal aja kalo takeaway. ga dikasih mayo, acar salad seupritttt",0.0,0
+"makanan ini ternyata sesuai dengan lidah orang indonesia, dan porsinya pas di perut...","makanan sesuai lidah orang indonesia, porsinya pas perut...",0.0,0
+"Bersih, dan pelayanan memuaskan untuk saya yg first time makan di hokben hehhe","bersih, pelayanan memuaskan yg first time makan hokben hehhe",0.0,0
+Bagus tmpatnya. Banyak pembeli juga. Makan bisa dgan nyaman,bagus tmpatnya. pembeli juga. makan dgan nyaman,0.0,0
+Nyaman suasana tidak terlallu ramai,nyaman suasana terlallu ramai,0.0,0
+Tempatnya nyaman,tempatnya nyaman,0.0,0
+Salah satu tempat masakan ala jepang yg sering dikunjungi disby,salah masakan ala jepang yg dikunjungi disby,0.0,0
+Everything was fine. Kalo lagi promo pasti antrinya rame..,everything was fine. kalo promo antrinya rame..,0.2023,1
+Mahal,mahal,0.0,0
+"Kalo disini dressing acarnya cepet banget encernya, entah kenapa..","kalo dressing acarnya cepet banget encernya, kenapa..",0.0,0
+Masi selalu rame yg makan disini,masi rame yg makan,0.0,0
+"Menu nya murah, enak, pas di kantong","menu nya murah, enak, pas kantong",0.0,0
+Nyaman untuk makan bersama keluarga,nyaman makan keluarga,0.0,0
+Tempat nyaman dan menerapkan sekali protokol kesehatan,nyaman menerapkan protokol kesehatan,0.0,0
+"Harga terjangkau, cozy, menunya lumayan banyak, enak","harga terjangkau, cozy, menunya lumayan banyak, enak",0.0,0
+Tempatnya nyaman,tempatnya nyaman,0.0,0
+Waralaba makanan cepat saji di dalam plasa surabaya lantai dasar,waralaba makanan cepat saji plasa surabaya lantai dasar,0.0,0
+Favorit = value set upgrade shrimp dumpling.. Yummy,favorit = value set upgrade shrimp dumpling.. yummy,0.7003,1
+Tempat nyaman buat family time,nyaman family time,0.0,0
+"Enak makannya, nyaman tempatnya..","enak makannya, nyaman tempatnya..",0.0,0
+Menu berbeda dan maknyus buat 4 sehat,menu berbeda maknyus 4 sehat,0.0,0
+Hokben Plaza Surabaya lokasinya di lantai bawah sendiri dekat dengan ATM Center,hokben plaza surabaya lokasinya lantai atm center,0.0,0
+Makanan cocok untuk anak2,makanan cocok anak2,0.0,0
+Ok,ok,0.296,1
+Layanan ini cepat,layanan cepat,0.0,0
+Agak sempit tempatnya.,sempit tempatnya.,0.0,0
+"Ocha, rasa air putihnya dingin sekali","ocha, air putihnya dingin",0.0,0
+"Nyonya Saya membelinya secara online sejak lama, Saya sama dengan pelanggan dan sama dengan pembayar.","nyonya membelinya online lama, pelanggan pembayar.",0.0,0
+"Karena banyak, banyak menu yang tidak tersedia sehingga harus menunggu 10-15 menit","banyak, menu tersedia menunggu 10-15 menit",0.0,0
+Ada luka kaki dibawah meja....doanya bagus sekali....hanya penerangan kurang terang,luka kaki dibawah meja....doanya bagus sekali....hanya penerangan terang,0.0,0
+Tahu itu 1 tok Tuangkan air lemon di atas air keran Ditambah lagi harganya agak mahal,1 tok tuangkan air lemon air keran ditambah harganya mahal,0.0,0
+"Pencari kado bento kidzu, serial jam tangan lucu","pencari kado bento kidzu, serial jam tangan lucu",0.0,0
+Rasanya biasa saja. Sesuai selera. Mahal,saja. sesuai selera. mahal,0.0,0
+cicipi makanannya....harganya bagus...,cicipi makanannya....harganya bagus...,0.0,0
+Rapi. Rapi. Membersihkan. Membersihkan.,rapi. rapi. membersihkan. membersihkan.,0.0,0
+Oke.. Sip,oke.. sip,0.0,0
+Ocha isi ulang pembalut baru,ocha isi ulang pembalut,0.0,0
+Ini adalah tempat favorit istri saya. Hehehe,favorit istri saya. hehehe,0.0,0
+Pelayanan ojolnya lambat sekali,pelayanan ojolnya lambat,0.0,0
+Pilihan untuk anak-anak yang beragam,pilihan anak-anak beragam,0.0,0
+E Putra,e putra,0.0,0
+Anak-anak menyukainya,anak-anak menyukainya,0.0,0
+Jika,,0.0,0
+Itu rata-rata...,rata-rata...,0.0,0
+pria meja,pria meja,0.0,0
+Harus mengantri,mengantri,0.0,0
+Cuaaaaaa,cuaaaaaa,0.0,0
+Banyak,,0.0,0
+Sipp,sipp,0.0,0
+Enakk,enakk,0.0,0
+Enak,enak,0.0,0
+Sukaan istri,sukaan istri,0.0,0
+Tempat yang bagus,bagus,0.0,0
+vs normal,vs normal,0.0,0
+Ada kecoak,kecoak,0.0,0
+Buber 2022 😄 …,buber 2022 😄 …,0.0,0
+anak haram......,anak haram......,0.0,0
+Sakit perut,sakit perut,0.0,0
+Tempatnya cukup strategis dan luas. Parkirannya sangat luas dan berbayar. Tersedia indoor berAC dan outdoor. Terdapat juga ruangan kecil untuk perayaan ulang tahun anak dan sebagainya. Pelayanannya cukup baik dan ramah.,tempatnya strategis luas. parkirannya luas berbayar. tersedia indoor berac outdoor. ruangan perayaan ulang anak sebagainya. pelayanannya ramah.,0.0,0
+"Kesini sore pas ada birthday party, suasananya jadi rame banget. Stafnya ramah, rasa ramennya entah kenapa lebih enak dari outlet lain, mantap deh 👍 …","kesini sore pas birthday party, suasananya rame banget. stafnya ramah, ramennya enak outlet lain, mantap deh 👍 …",0.0516,1
+"Kali pertama nyobain hokben di restonya langsung, ngerasa nyaman tempatnya, pegawai ramah, ac dingin dan ada satpamnya.","kali nyobain hokben restonya langsung, ngerasa nyaman tempatnya, pegawai ramah, ac dingin satpamnya.",0.0,0
+"Lokasi strategis di tengah kota Surabaya jadi mudah diakses dari manapun, parkir cukup luar ada musholah dan bisa layanan drivetrue. Kebetulan kita pakai hall hokben utk acara perpisahan kelas paket yang ditawarkan menarik. Sudah disiapkan mc yg cukup menghibur anak2 jadi acara semakin meriah","lokasi strategis kota surabaya mudah diakses manapun, parkir musholah layanan drivetrue. pakai hall hokben utk acara perpisahan kelas paket ditawarkan menarik. disiapkan mc yg menghibur anak2 acara meriah",0.0,0
+Lokasi restoran strategis di tengah kota. Dekat dengan Jl. Darmo. Restorannya ternyata cukup luas baik untuk parkir dan tempat dine-in. Menu tidak perlu saya nilai karena sama seperti Hokben pada umumnya.,lokasi restoran strategis kota. jl. darmo. restorannya luas parkir dine-in. menu nilai hokben umumnya.,0.0,0
+Lelet parah bgt pesen es merah delima bilang nya nya nunggu 15 menit sampek satu jam gak dateng2. Sampai saya tinggal pulang (tgl 9-10-2024),lelet parah bgt pesen es merah delima bilang nya nya nunggu 15 menit sampek jam gak dateng2. tinggal pulang (tgl 9-10-2024),0.0,0
+"Salah satu HokBen terenak yang pernah aku kunjungi. Dan enak disini bkan cm makanannya saja, tapi semua hal wkwk. Dari pelayanannya, makanannya, tempatnya, kebersihannya, suasananya. Semuanya enak. Harganya juga worth it dgn makanannya. …","salah hokben terenak kunjungi. enak bkan cm makanannya saja, wkwk. pelayanannya, makanannya, tempatnya, kebersihannya, suasananya. enak. harganya worth it dgn makanannya. …",0.2263,1
+"Setelah berapa lama tidak makan hokben, saya cukup kecewa dengan ukuran gorengannya yang mengecil menjadi bulat, padahal dulu besar dan lonjong. Area parkir cukup luas, ada drive thru juga. …","makan hokben, kecewa ukuran gorengannya mengecil bulat, lonjong. area parkir luas, drive thru juga. …",0.0,0
+"DRIVE THRUE TERBURUK NUNGGU DI JENDELA 15 menit gak direspon, akhirnya antri ikut gojek, EH ADA CEWE DATENG DI JENDELA DRIVE THRUE LANGSUNG DI RESPON 🤣🤣🤣 …","drive thrue terburuk nunggu jendela 15 menit gak direspon, antri gojek, eh cewe dateng jendela drive thrue langsung respon 🤣🤣🤣 …",0.0,0
+"Tempat nyaman, pelayanan ramah, parkir luas, bisa dine in, drive thru. Namun ada sedikit masukan yakni perihal lalat. Krn saya lihat ada bbrp lalat yang masuk di resto. Semoga lebih diperhatikan lagi","nyaman, pelayanan ramah, parkir luas, dine in, drive thru. masukan perihal lalat. krn lihat bbrp lalat masuk resto. semoga diperhatikan",0.0,0
+Kesini karena harus meetup makan siang bareng client yang ngebawa anaknya. Terletak di pusat kota menjadikan salah satu fast food bernuansa jepang ini menjadi rujukn buat orang-orang yang tidak ingin masuk dna antre di mall …,kesini meetup makan siang bareng client ngebawa anaknya. terletak pusat kota menjadikan salah fast food bernuansa jepang rujukn orang-orang masuk dna antre mall …,0.0,0
+"Hari ini kecewa berat makan hokben. Padahal makan hokben biasanya enak2 aja, jam 09.40 saya ke sini pesen chicken yakiniku tapi rasanya bukan yakiniku, rasanya kecut dan berlendir.. saya komplain ke pelayan katanya gpp rasanya emang gitu …","kecewa berat makan hokben. makan hokben enak2 aja, jam 09.40 pesen chicken yakiniku yakiniku, kecut berlendir.. komplain pelayan gpp emang gitu …",0.0,0
+"biasa pesennya yg premium set baru enak, kalo yg lain biasa aja sih. lokasinya lumayan besar dan enak juga kebetulan deket dr kos saya, minusnya keluar masuk tempatnya harus hati2 krn pas banget d pojokan lampu merah jdnya banyak org yg stop disitu. makanya lebih enak delivery sih","pesennya yg premium set enak, kalo yg aja sih. lokasinya lumayan enak deket dr kos saya, minusnya masuk tempatnya hati2 krn pas banget d pojokan lampu merah jdnya org yg stop disitu. enak delivery sih",-0.296,0
+"Gerai Hokben yang wajib dikunjungin bila memang mau khusus berkunjung ke hokben karena gerainya tidak gabung dengan mall ataupun usaha lain. makanan enak banget untuk paket beef nya, waktu datang ada dapat promo ramen …","gerai hokben wajib dikunjungin khusus berkunjung hokben gerainya gabung mall usaha lain. makanan enak banget paket beef nya, promo ramen …",0.0,0
+"Hokben polisi istimewa sekarang sudah direnovasi, tempatnya jadi lebih bagus dan sangat bersih dibandingkan resto fast food dan tempat lainnya, nyaman untuk bawa keluarga di sini dibandingkan dahulu. Petugas ramah dan sigap. Terdapat mushola di bagian belakang, mushola bersih dan terdapat mukena.","hokben polisi istimewa direnovasi, tempatnya bagus bersih dibandingkan resto fast food lainnya, nyaman bawa keluarga dibandingkan dahulu. petugas ramah sigap. mushola belakang, mushola bersih mukena.",0.0,0
+Parah beli es pas dapet es nya secuil 🤣 zonkkkkk banget. Kasir hrs nya blg dongg es kosong kl mmg gak ada es nya.akhirnya gak kemakan angelll …,parah beli es pas dapet es nya secuil 🤣 zonkkkkk banget. kasir hrs nya blg dongg es kosong kl mmg gak es nya.akhirnya gak kemakan angelll …,0.0,0
+Hampir 1 jam nunggu ngapain aja ya karyawannya kayak resto paling rame aja 😄 Hoka hemat 30 rb tapi waktunya segitu lama …,1 jam nunggu ngapain aja ya karyawannya kayak resto rame aja 😄 hoka hemat 30 rb segitu …,0.0,0
+Pas sampai disini kondisi outletnya bersih ✅ Makanan ready dengan kondisi penataan cantik dan terlihat segar ✅ petugas perempuan siap ✅ kondisi tidak terlalu ramai✅ petugas menginformasikan refill ocha✅,pas kondisi outletnya bersih ✅ makanan ready kondisi penataan cantik segar ✅ petugas perempuan ✅ kondisi ramai✅ petugas menginformasikan refill ocha✅,0.3612,1
+"Shrimp roll dan egg roll standar hokben namun acar lobak dan wortel sangat asam dan asin ga seperti standar hokben. Tapi yang bikin males balik, drive thru tapi diminta PARKIR! Baru kali ini drive thru diminta parkir, tolong diurus jukirnya, kayak preman aja!","shrimp roll egg roll standar hokben acar lobak wortel asam asin ga standar hokben. bikin males balik, drive thru parkir! kali drive thru parkir, tolong diurus jukirnya, kayak preman aja!",0.0,0
+Tempat ini memang enak buat nongkrong cuma untuk kopi panas tidak tersedia,enak nongkrong kopi panas tersedia,0.0,0
+"Parkiran luas, ruangan bersih, pilihan paketnya banyak macam, ruangan untuk acara ultah cukup besar..","parkiran luas, ruangan bersih, pilihan paketnya macam, ruangan acara ultah besar..",0.0,0
+"makanannya enak, cocok buat anak2 juga. tapi kadang lamaaa bgt kalo pas pesen ramen. Kadang kalo pas rame mejanya lama ga dibersihin. Mungkin perlu dibikin self service (cleaning) kali ya seperti di beberapa resto lain.","makanannya enak, cocok anak2 juga. kadang lamaaa bgt kalo pas pesen ramen. kadang kalo pas rame mejanya ga dibersihin. dibikin self service (cleaning) kali ya resto lain.",0.0,0
+"Tempat nyaman bnget bersih, parkiran luas pelayanan nya luamayan ok, pengalaman kemaren g sengaja numpahin minuman k lantai abis itu panggil pelayan untuk d bersihin tapi cuman di pel aja ada tisu basah d lantai g di angkut anjiirr, …","nyaman bnget bersih, parkiran luas pelayanan nya luamayan ok, pengalaman kemaren g sengaja numpahin minuman k lantai abis panggil pelayan d bersihin cuman pel aja tisu basah d lantai g angkut anjiirr, …",0.296,1
+"Pelayanan ramah, tempatnya nyaman, luas, dingin, cocok untuk makan bersama kolega dan cocok untuk membawa anak","pelayanan ramah, tempatnya nyaman, luas, dingin, cocok makan kolega cocok membawa anak",0.0,0
+"Seperti biasa, pelayanannya menurut saya bagus dan cepat tanggap. Order via gojek juga cepet banget nyampenya, padahal baru nelfon tapi udah nyampe aja. Suasana tempatnya selalu lumayan rame kalau disini. Cocok juga untuk yang punya acara …","biasa, pelayanannya bagus cepat tanggap. order via gojek cepet banget nyampenya, nelfon udah nyampe aja. suasana tempatnya lumayan rame disini. cocok acara …",0.0,0
+"Jarang sekali makan Hokben sejak tampilan menu dan harga berubah. Karna sejak yang baru ini hokben jadi too pricey dengan porsi yang sangat imut, tidak sesuai gambar dan tidak sesuai harga. Kemarin makan karna terpaksa. Ditawari kids menu, …","jarang makan hokben tampilan menu harga berubah. karna hokben too pricey porsi imut, sesuai gambar sesuai harga. kemarin makan karna terpaksa. ditawari kids menu, …",0.0,0
+"Makan Hokben terlama penyajiannya padahal makanan cepat saji, padahal gak terlalu ramai. Tingkatkan pelayanan, meja kotor juga lama di bersihkan. Tempat padahal bagus, sangat perlu peningkatan pelayanan minimal seperti outlet yang lainnya.","makan hokben terlama penyajiannya makanan cepat saji, gak ramai. tingkatkan pelayanan, meja kotor bersihkan. bagus, peningkatan pelayanan minimal outlet lainnya.",0.0,0
+"Kekurangan karyawan, banyak meja belum dibersihkan Parkiran diatur oleh org external..kasih batas2 krndaraan yg menyulitkan. …","kekurangan karyawan, meja dibersihkan parkiran diatur org external..kasih batas2 krndaraan yg menyulitkan. …",0.0,0
+"Makanan enak dan pelayanannya bagus, hanya saja tidak nyaman saat makan karena ada lalat di dalam ruangannya.","makanan enak pelayanannya bagus, nyaman makan lalat ruangannya.",0.0,0
+"Bento Ramadhan makan bareng teman2 blogger. Tempatnya strategis, anak saya betah karena bisa main sepuasnya di play ground yg sudah disediakan ama pihak hokben. Parkirannya luasssss banget. Ada 2 ruangan buat yg mau kongkow. Di tempat ber …","bento ramadhan makan bareng teman2 blogger. tempatnya strategis, anak betah main sepuasnya play ground yg disediakan ama hokben. parkirannya luasssss banget. 2 ruangan yg kongkow. ber …",0.34,1
+"Tempatnya nyaman, strategis dekat perembatan besar. Ada ruang meeting yang bisa dipergunakan tanpa mebayar biaya tambahan, cukup minimal 20 orang dengan membeli paket makanan yang tersedia. Ada LCD proyektor jika diperlukan. Parkir luas sekali, pelayanan cukup prima. Delivery order.","tempatnya nyaman, strategis perembatan besar. ruang meeting mebayar biaya tambahan, minimal 20 orang membeli paket makanan tersedia. lcd proyektor diperlukan. parkir luas sekali, pelayanan prima. delivery order.",0.0,0
+[BENTO RAMADHAN] Kalo mau #Bukberseru cawww aja ke @hokben_id di #HokbenPolis dimana saat ramadhan ini ada menu #BentoRamadan dan yang paling penting buka 24 jam! Jadi kalo pgn …,[bento ramadhan] kalo #bukberseru cawww aja @hokben_id #hokbenpolis dimana ramadhan menu #bentoramadan buka 24 jam! kalo pgn …,0.0,0
+"Lokasinya sebelum perempatan lampu merah Jl. Raya Darmo. Parkirnya luas. Sebelum pandemi, restoran ini bisa disewa untuk acara ulang tahun anak-anak. …","lokasinya perempatan lampu merah jl. raya darmo. parkirnya luas. pandemi, restoran disewa acara ulang anak-anak. …",0.0,0
+"Tempatnya luas ditambah dengan fasilitas wifi, menjadikan makan disini dan nongkrong bersama teman menjadi nyaman. Tak perlu khawatir bagi orang tua, disini disediakan tempat untuk bermain anak. Disini juga bisa dibuat acara ulang tahun juga lhoo. Soak parkiran tak perlu dipikirin juga, karena disini parkirannya luas kok.","tempatnya luas ditambah fasilitas wifi, menjadikan makan nongkrong teman nyaman. khawatir orang tua, disediakan bermain anak. acara ulang lhoo. soak parkiran dipikirin juga, parkirannya luas kok.",0.0,0
+nunggu sampai satu jam belum selesai juga di mohon pada pihak terkait coba di cek restorannya pegawai super duper lelet parah kebanyakan guyon,nunggu jam selesai mohon terkait coba cek restorannya pegawai super duper lelet parah kebanyakan guyon,0.5994,1
+"Saya delivery ayam krispy nya hokben, ternyata enak banget di padu sama salad dan mayo khas hokben nya.","delivery ayam krispy nya hokben, enak banget padu salad mayo khas hokben nya.",0.0,0
+"Tempatnya luas & bersih. Pelayanan cepat. Untuk menu sama semua seperti di cabang-cabang hokben yang lain. Value set menu yang irit, dengan harga yang cukup terjangkau, menunya juga lengkap, sudah include ocha & soup. Seharusnya juga disediakan saus tomat bagi yang tidak suka saus sambal.","tempatnya luas & bersih. pelayanan cepat. menu cabang-cabang hokben lain. value set menu irit, harga terjangkau, menunya lengkap, include ocha & soup. disediakan saus tomat suka saus sambal.",0.34,1
+"Pelayanan cepet, tapi ntah mulai kapan pelayanan hokben konsepnya agak dirubah dari menadah sendiri makanan yang sudah dipilih lalu bayar sekarang pilih makanan ini itu langsung bayar lalu “menunggu” nomer dipanggil baru ambil makanannya. Gapapa gapapa yang penting kan masih cepet kalo lama yaa turun bintang","pelayanan cepet, ntah pelayanan hokben konsepnya dirubah menadah makanan dipilih bayar pilih makanan langsung bayar “menunggu” nomer dipanggil ambil makanannya. gapapa gapapa cepet kalo yaa turun bintang",0.0,0
+tempatnya dekat dengan perempatan dan rambu lalu lintas gampang diakses mudah di kenali dari jauh ada delivery order …,tempatnya perempatan rambu lintas gampang diakses mudah kenali delivery order …,0.0,0
+"Makanan enak utk semua umur, pelayanan ramah terampil cepat respon nya cocok resto keluarga","makanan enak utk umur, pelayanan ramah terampil cepat respon nya cocok resto keluarga",0.0,0
+"Hokben ini letaknya strategis banget, di tengah kota gitu. Areanya luas, untuk parkir motor/mobil bisa menampung banyak. Drive Thru nya juga lega. Tempat makannya di dalam/diluar sama-sama nyaman. Area bermain untuk anaknya mudah diawadi.. …","hokben letaknya strategis banget, kota gitu. areanya luas, parkir motor/mobil menampung banyak. drive thru nya lega. makannya dalam/diluar nyaman. area bermain anaknya mudah diawadi.. …",0.0,0
+Brand new logo Hokben dahulu hola hola bento. Enak tempat luas. Satu2nya Surabaya yang di liuar mall. Parkir muaat Mobil banyak. Bisa drive thru. Ada ruang pesta dan meetingnya . Mushala.,brand new logo hokben hola hola bento. enak luas. satu2nya surabaya liuar mall. parkir muaat mobil banyak. drive thru. ruang pesta meetingnya . mushala.,0.0,0
+"Baby chair hanya 2 biji. Kurang donggg, sekelas hokben dimana menjadi andalan ibu2 ketika anaknya gtm.","baby chair 2 biji. donggg, sekelas hokben dimana andalan ibu2 anaknya gtm.",0.0,0
+"Pelayanannya tidak tepat waktu, katanya nunggu 10 menit, ternyata sampe 30 menitan. Mungkin karna saya datang pas pagi jadi belum bener2 siap semua menunya","pelayanannya waktu, nunggu 10 menit, sampe 30 menitan. karna pas pagi bener2 menunya",0.0,0
+Kalau pengen daging enak yang paket C tp no free drink. Kalau pengen daging dan kenyang banget yang premium sudah dapat kitkat dan free ocha bisa refil. Kalau pengen cobain tofu ya menurutku bakso tahu tepatnya juga enak.,pengen daging enak paket c tp no free drink. pengen daging kenyang banget premium kitkat free ocha refil. pengen cobain tofu ya menurutku bakso tepatnya enak.,0.6597,1
+"Enak sih , apalagi klw malam duduknya diluar ada angin semilir dan ini sedang menikmati nobar bola Persib vs Persela , strategis tempatnya . Ada toilet diluar dekat tempat parkir . Ada wastafel diarah masuk pemesanan , ada beberapa hand …","enak sih , klw malam duduknya diluar angin semilir menikmati nobar bola persib vs persela , strategis tempatnya . toilet diluar parkir . wastafel diarah masuk pemesanan , hand …",0.4939,1
+"ya seperti hokben pada biasanya, menyediakan makanan khas jepang dengan harga selangit dan porsi sedikit namun tetap lezat dan kualitas yg sangat baik. ada biaya parkir dan di sini melayani drive-through","ya hokben biasanya, menyediakan makanan khas jepang harga selangit porsi lezat kualitas yg baik. biaya parkir melayani drive-through",0.0,0
+Makan hokben dsni enak ya gak usah masuk mall Langsung cuss Sy pesan dry ramen lamaaaa banget 30menitan Mohon d perbaiki,makan hokben dsni enak ya gak masuk mall langsung cuss sy pesan dry ramen lamaaaa banget 30menitan mohon d perbaiki,0.0,0
+"Akses ke lokasi mudah. Parkir luas dan ada tukang parkir untuk membantu. Waktu mengambil pesanan ditinggal gitu aja, ternyata bisa langsung diambil tanpa tunjukin nota pembelian, jarang ada resto kaya gini mungkin salah satu pegawainya aja yang begitu ya. Overall tempat nyaman, rasa standart sesuai dengan cabang lain.","akses lokasi mudah. parkir luas tukang parkir membantu. mengambil pesanan ditinggal gitu aja, langsung diambil tunjukin nota pembelian, jarang resto kaya gini salah pegawainya aja ya. overall nyaman, standart sesuai cabang lain.",0.0,0
+"Sangat lama ! Cukup 1x saja kesini ! Pesanan saya sederhana, yang tertera semua di depan. Pesanan saya juga tidak banyak. Silahkan dicek difoto yang saya upload. Tapi.... Sangat lama untuk pesanan …","! 1x kesini ! pesanan sederhana, tertera depan. pesanan banyak. silahkan dicek difoto upload. tapi.... pesanan …",0.0,0
+Resto paling lama pelayanan gak bagus buat apk online jangan pesen online pelayanan paling lama,resto pelayanan gak bagus apk online pesen online pelayanan,0.0,0
+"selama bulan Ramadhan, @hokben_id polisi istimewa buka 24 jam!! mau buka puasa, mau sahur, mau makan siang (soale libur puasa) bisa banget ke hokben dan beli bento Ramadhan …","ramadhan, @hokben_id polisi istimewa buka 24 jam!! buka puasa, sahur, makan siang (soale libur puasa) banget hokben beli bento ramadhan …",0.0,0
+Salad & mayonnaise resto ini akan selalu jadi yang unik dari brand resto Hokben. …,salad & mayonnaise resto unik brand resto hokben. …,0.0,0
+"tempat favorit masakan japan cepat saji, keren banget dah, cocok untuk makan bareng bersama keluarga, ngumpul bareng sama temen temen, parkir aman dan luas, harga sangat murah, sajian pun hemmm yummy dah. Ada drive tru nya loh guest. Ada smoking area juga, eitt, menu buat anak anak gak ketinggalan dapet mainan juga.","favorit masakan japan cepat saji, keren banget dah, cocok makan bareng keluarga, ngumpul bareng temen temen, parkir aman luas, harga murah, sajian hemmm yummy dah. drive tru nya loh guest. smoking area juga, eitt, menu anak anak gak ketinggalan dapet mainan juga.",0.5267,1
+"H+3 lebaran ngajak makan bareng keluarga disini, dengan baris antrian lama banget, hampir sejam, Setelah dapat giliran order di counternya, eh ternyata masih harus antri lagi …","h+3 lebaran ngajak makan bareng keluarga disini, baris antrian banget, sejam, giliran order counternya, eh antri …",0.0,0
+"Tempatnya sangat nyaman. ada pilihan untuk indoor atau outdoor. fasilitas tempat parkir juga luas. cocok untuk makan bersama teman, pasangan, keluarga. Menu yang ditawarkan juga sangat enak. tersedia berbagai paket menu yang bisa kita pilih sesuai dengan selera.","tempatnya nyaman. pilihan indoor outdoor. fasilitas parkir luas. cocok makan teman, pasangan, keluarga. menu ditawarkan enak. tersedia paket menu pilih sesuai selera.",0.0,0
+"Kalau ga kerja sama sama grab tolong itu promo di grab dihapus aja, koordinasi sama grab kalo di hokben gaada promo grab, jangan mau diem aja, masak di grab ngasih promo tapi di restonya dibilang enggak ada promo","ga kerja grab tolong promo grab dihapus aja, koordinasi grab kalo hokben gaada promo grab, diem aja, masak grab ngasih promo restonya dibilang promo",0.0,0
+"Lokasinya di pinggir jalan. Halaman parkir luas. Ada area bermain anak, ada mushola, dan tempatnya nyaman. Ada tempat buat meeting room","lokasinya pinggir jalan. halaman parkir luas. area bermain anak, mushola, tempatnya nyaman. meeting room",0.0,0
+"Sudah beberapa kali kesini Kali ini saya pesan fried chicken yang ternyata enak juga rasanya , biasanya pesan bento atau rice bowl …","kali kesini kali pesan fried chicken enak , pesan bento rice bowl …",0.0,0
+"Hokben restoran jepang yang sudah populer. Menyajikan makanan dengan kualitas yang terjaga. Rasanya enak, saladnya enak. Restoran cepat saji yg lezat dengan lokasi yg strategis dan luas. …","hokben restoran jepang populer. menyajikan makanan kualitas terjaga. enak, saladnya enak. restoran cepat saji yg lezat lokasi yg strategis luas. …",0.0,0
+"Tempat luas..ada space buat acara ultah sendiri, sayang uda gaada prosotan buat anak2, pelayanan juga cepat..menu semakin beragam","luas..ada space acara ultah sendiri, sayang uda gaada prosotan anak2, pelayanan cepat..menu beragam",0.0,0
+"Baru kali ini beli hokben sangat kecewa salad mayo nya sangat waterry, sampai di gelas nya ada genangan air, jadi harus di pisahkan dlu saya tuang di nampan, untuk daging nya standart hokben, gornegan nya enak as always hokben, free refill …","kali beli hokben kecewa salad mayo nya waterry, gelas nya genangan air, pisahkan dlu tuang nampan, daging nya standart hokben, gornegan nya enak as always hokben, free refill …",0.5106,1
+"Salah satu store HokBen yang sering saya datengin karna store'nya tidak gabung didalam Mall jadi buka'nya sampai jam 23.59 dan area parkir yang sangat luass. Eits, ada drive thru'nya juga loh! Tempat sangat luas, kebersihan terjaga, nyaman pokoknya. Namun untuk yang di outdoor banyak nyamuknya hehe","salah store hokben datengin karna store'nya gabung didalam mall buka'nya jam 23.59 area parkir luass. eits, drive thru'nya loh! luas, kebersihan terjaga, nyaman pokoknya. outdoor nyamuknya hehe",0.0,0
+"Tempat makan yang nyaman, dengan harga menu yang terjangkau. Pilihan menu juga variatif dan sering ada program program promosi. Apalagi ada tambahan cash back 50% kalau pakai ovo, jadi harganya semakin terjangkau. Ada kursi tinggi untuk …","makan nyaman, harga menu terjangkau. pilihan menu variatif program program promosi. tambahan cash back 50% pakai ovo, harganya terjangkau. kursi …",0.0,0
+"Tempatnya luas, kids friendly dengan arena bermain yang bersih dan lumayan lapang. Pelayannya ramah-ramah dan tanggap. …","tempatnya luas, kids friendly arena bermain bersih lumayan lapang. pelayannya ramah-ramah tanggap. …",0.4939,1
+"Selalu senang kalau makan di sini. Tempatnya bersih, nyaman. Parkirannya luas. Waktu pesan makanan juga tidak perlu nunggu lama. 👍 …","senang makan sini. tempatnya bersih, nyaman. parkirannya luas. pesan makanan nunggu lama. 👍 …",0.0,0
+Siapa tidak kenal Hokben? Rasanya semua orang se-Indonesia pasti sudah tidak asing dengan restoran yang menyediakan berbagai menu masakan khas Jepang ini. …,kenal hokben? orang se-indonesia asing restoran menyediakan menu masakan khas jepang ini. …,0.0,0
+"Nunggu nya lama hampir 1 jam sendiri ,padahal outlet gak seberapa rame dan Kasir Tidak Menunjukkan Promo Yang ada","nunggu nya 1 jam ,padahal outlet gak rame kasir promo",0.0,0
+Tempat ini menawarkan makanan khas jepang cepat saji. Tersedia pula tempat main untuk anak². Parkir juga tersedia luas. Area ininjuga mudah untuk dijangkau dr pusat kota.,menawarkan makanan khas jepang cepat saji. tersedia main anak². parkir tersedia luas. area ininjuga mudah dijangkau dr pusat kota.,0.0,0
+"Tempat cukup bagus dan luas, waktu saya datang rame banget sih😅 makanannya sukaaa, as always😊 …","bagus luas, rame banget sih😅 makanannya sukaaa, as always😊 …",0.0,0
+"Tempatnya bersih, porsi lumayan.. cocok buat nongkrong bareng temen/keluarga","tempatnya bersih, porsi lumayan.. cocok nongkrong bareng temen/keluarga",0.0,0
+Tepatnya nyaman!! Cocok untuk keluarga. Ada area bermain anak. Parkir luas. Menu komplit. Pelayanannya Ramah. Refill ochanya juga selalu tersedia. Outdoor dan indoor. Selalu nyaman kalo kesini.. Rekomendasi kalo untuk makan bareng keluarga.,tepatnya nyaman!! cocok keluarga. area bermain anak. parkir luas. menu komplit. pelayanannya ramah. refill ochanya tersedia. outdoor indoor. nyaman kalo kesini.. rekomendasi kalo makan bareng keluarga.,0.0,0
+"Pelayanannya cepat dan ramah, menunya lengkap dengan promo-promo yang menyenangkan, maaf fotonya pas hidangan sudah habis..","pelayanannya cepat ramah, menunya lengkap promo-promo menyenangkan, maaf fotonya pas hidangan habis..",0.0,0
+Tempatnya luas & interiornya bagus bikin betah. Pegawainya juga ramah². …,tempatnya luas & interiornya bagus bikin betah. pegawainya ramah². …,0.0,0
+"selain makanannya yang enak, tempat ini menawarkan suasana tengah kota yang bagus tapi tetap jauh dari nuansa bising karena halamannya yang luas. ada opsi tempat indoor (smoking dan non-smoking), outdoor dan dilengkapi dengan tempat bertema …","makanannya enak, menawarkan suasana kota bagus nuansa bising halamannya luas. opsi indoor (smoking non-smoking), outdoor dilengkapi bertema …",0.0,0
+"Tempat nyaman dan strategis. Ada musholla, Playground, ruang AC, ruangan untuk merokok. Parkir roda 4 dan 2 nyaman. Ada toilet, wastafel.","nyaman strategis. musholla, playground, ruang ac, ruangan merokok. parkir roda 4 2 nyaman. toilet, wastafel.",0.0,0
+Makanannya sih enak dengan harga relatif terjangkau. Layanannya bagus dan ramah sekali. Suasananya ramai dikunjungi pembeli dan parkirnya cukup memadai. Guud lahh,makanannya sih enak harga relatif terjangkau. layanannya bagus ramah sekali. suasananya ramai dikunjungi pembeli parkirnya memadai. guud lahh,0.0,0
+"nunggu 1 jm lebihh kata e yg ready hoka hemat tapi nunggu sak jam , nunguin pesanan sebelumnyaa yg makanannya ready 25 mnt haha kocak.","nunggu 1 jm lebihh e yg ready hoka hemat nunggu sak jam , nunguin pesanan sebelumnyaa yg makanannya ready 25 mnt haha kocak.",0.7906,1
+"Tempat bersih,mkanan enak,pelayanan dari segi suara ramah..sayang wajah pegawai kurang senyum dan cenderung cemberut.","bersih,mkanan enak,pelayanan segi suara ramah..sayang wajah pegawai senyum cenderung cemberut.",0.0,0
+"Rasa makanan standar, penyajiannya bagus, harga standar, suasana resto sangat nyaman dan bagus …","makanan standar, penyajiannya bagus, harga standar, suasana resto nyaman bagus …",0.0,0
+Makanan masi std hokben Salad tidak watery Karna mayo di pisah …,makanan masi std hokben salad watery karna mayo pisah …,0.0,0
+Enak2 makanannya. Porsi mayan. Harga best lah...,enak2 makanannya. porsi mayan. harga best lah...,0.6369,1
+lama pembuatanya masak sampe lebih 30 menit,pembuatanya masak sampe 30 menit,0.0,0
+"Tempat makan ala jepang.. ruangan cozy, bisa untuk sendiri, berdua atau dengan keluarga.. cukup ramai setiap harinya, apalagi ketika ada yng lagi ber ulang tahun,meskipun sudah ada ruang khusus, akan tetap penuh dg orangtua yg mengantar dan ada tempat bermain untuk anak. smoking area khusus di depan.. tersedia mushola","makan ala jepang.. ruangan cozy, sendiri, berdua keluarga.. ramai harinya, yng ber ulang tahun,meskipun ruang khusus, penuh dg orangtua yg mengantar bermain anak. smoking area khusus depan.. tersedia mushola",0.0,0
+"Masakan dan irisan daging disini beda dgn hokben yg lain, rasa masakan jg beda, seperti makanan sisa kemarin yg dihangatkan kembali, pelayanan di counter pemesanan untuk karyawan laki-lakinya jg terkesan asal2.","masakan irisan daging beda dgn hokben yg lain, masakan jg beda, makanan sisa kemarin yg dihangatkan kembali, pelayanan counter pemesanan karyawan laki-lakinya jg terkesan asal2.",0.0,0
+Salah saru Hokben 24jam. Tempat strategis. Parkir dan tempatnya pun luas. …,salah saru hokben 24jam. strategis. parkir tempatnya luas. …,0.0,0
+"Baru pertama kali kesini.. tempatnya luas, bersih dan nyaman Parkiran juga oke Kaget banget sama porsinya lumayan banyak dan bikin kenyang banget …","kali kesini.. tempatnya luas, bersih nyaman parkiran oke kaget banget porsinya lumayan bikin kenyang banget …",0.0,0
+"Pelayanan lama banget..... Sistem baru yang tidak nyaman. Menunggu pesanan selesai lama banget. Meja juga kotor,tidak langsung dibersihkan. Karyawan tampak sibuk sendiri dan menjawab dengan ketus. Mendingan ke restoran keluarga yang disebelahnya aja deh lain kali....","pelayanan banget..... sistem nyaman. menunggu pesanan selesai banget. meja kotor,tidak langsung dibersihkan. karyawan sibuk ketus. mendingan restoran keluarga disebelahnya aja deh kali....",0.0,0
+"Service buruk, drive thru nunggunya lama banget, suruh nunggu di parkiran udah sejam lebih, ternyata pas disamperin udah ada tapi gak di anter"" sama orangnya.","service buruk, drive thru nunggunya banget, suruh nunggu parkiran udah sejam lebih, pas disamperin udah gak anter"" orangnya.",0.0,0
+Menunya lengkap Pelayanannya juga ramah Cm sekarang sudah tidak menyediakan tempat bermain anak,menunya lengkap pelayanannya ramah cm menyediakan bermain anak,0.0,0
+"Tempatnya nyaman banget, parkiran luas. Recommended banget buat meeting, ngadain pesta ultah dan reuni :) cukup pesen makan 30rban minimal 20 org . 👌👌👌 makannya juga enak parahh …","tempatnya nyaman banget, parkiran luas. recommended banget meeting, ngadain pesta ultah reuni :) pesen makan 30rban minimal 20 org . 👌👌👌 makannya enak parahh …",0.5859,1
+Tempat baru.. knp kok gag d bersihin setelah makan.. apa skarang peraturan baru yg makan naruh k tempat dapur..? Td awalnya maunya makan d tempat..lah kok mejanya kotor smwa..jd bongkos ae gwo moleh..bwa anak jd tdk nyaman..🤖🤖👍👍 …,baru.. knp gag d bersihin makan.. skarang peraturan yg makan naruh k dapur..? td maunya makan d tempat..lah mejanya kotor smwa..jd bongkos ae gwo moleh..bwa anak jd tdk nyaman..🤖🤖👍👍 …,-0.34,0
+"Sudah lama tidak kesini, ternyata tempatnya berubah. Suasanya sangat nyaman, desainnya sangat homey sekali. Cocok untuk keluarga. Sayang tidak ada tempat bermain untuk anak.","kesini, tempatnya berubah. suasanya nyaman, desainnya homey sekali. cocok keluarga. sayang bermain anak.",0.0,0
+Kalau Jumat sore sepi.... Enak buat makan sendirian. Hehehe,jumat sore sepi.... enak makan sendirian. hehehe,-0.3612,0
+Parkir Mobil Cukup luas bs puluhan ada drive true juga Pemesanan bisa langsung di kasir sambil nunggu pesanan nanti di pangilan nomer kita trus makan …,parkir mobil luas bs puluhan drive true pemesanan langsung kasir nunggu pesanan pangilan nomer trus makan …,0.4215,1
+Pelayanan cepat sebelum tutup Last order dilayani dengan maksimal Bisa santap hingga larut malam …,pelayanan cepat tutup last order dilayani maksimal santap larut malam …,0.0,0
+"Tempat luas. Parkir motor mobil lega banget Slama pandemi, mainan anak tutup. Dan tdk ada daun bwg dlm sup.. …","luas. parkir motor mobil lega banget slama pandemi, mainan anak tutup. tdk daun bwg dlm sup.. …",0.0,0
+"Tempat yg paling nyaman untuk makan 😊 Selain tempat nya yg bersih, makanan disini juga enak lo guys,, untuk tempat parkir nya juga termasuk luasss... …","yg nyaman makan 😊 nya yg bersih, makanan enak lo guys,, parkir nya luasss... …",0.0,0
+Proses untuk driver ojol lamaaa sekali terutama gojek.,proses driver ojol lamaaa gojek.,0.0,0
+Tempat luas nyaman parkir luas,luas nyaman parkir luas,0.0,0
+"Tempatnya mudah dijangkau, taste masakannya enak.parkiran ada. Semoga setelah renovasi akan lebih nyaman","tempatnya mudah dijangkau, taste masakannya enak.parkiran ada. semoga renovasi nyaman",0.0,0
+"Hokben fav di Sby setuap kali kepengen mkn ini. Letak tengah kota, parkir luas, meja makan jg byk. Tersedia indoor & outdoor. Pelayanan cepat & ramah. Setiap kesini jrg sekali sampai krodit terlalu penuh. Selalu msh tersedia tempat. Nice 👍 …","hokben fav sby setuap kali kepengen mkn ini. letak kota, parkir luas, meja makan jg byk. tersedia indoor & outdoor. pelayanan cepat & ramah. kesini jrg krodit penuh. msh tersedia tempat. nice 👍 …",0.7003,1
+Mbak karyawan / kasirnya kalo ngomong kurang sopan terhadap saya masak saya dibilang (matamu ga ndelok ta mas),mbak karyawan / kasirnya kalo ngomong sopan masak dibilang (matamu ga ndelok ta mas),0.0,0
+"Gorengan HokBen yang menjadi favorit saya, rasa ayam terasa dan empuk, scrabble telur nya juga enak. Layanan cepat, tepat dan ramah. …","gorengan hokben favorit saya, ayam empuk, scrabble telur nya enak. layanan cepat, ramah. …",0.0,0
+"Nasi tidak pulen dan agak keras, chicken teriyaki rasanya pahit dan berbau seperti sudah lama, egg chicken roll ukurannya sangat kecil ini semua di bandingkan dengan outlet hokben yang lainnya. Terrible experience banget makan disini. Plusnya cuma tempatnya oke.","nasi pulen keras, chicken teriyaki pahit berbau lama, egg chicken roll ukurannya bandingkan outlet hokben lainnya. terrible experience banget makan disini. plusnya tempatnya oke.",-0.4767,0
+"Kebetulan mampir hokben pas lebaran.. lumayan antri.. mungkin karena ramai, jadi agak kurang bersih ya, sisa tempat makan tidak langsung dibersihkan, jadi mau duduk harus bersihkan meja sendiri.. untuk rasa l, sipp lah, standar hokben","mampir hokben pas lebaran.. lumayan antri.. ramai, bersih ya, sisa makan langsung dibersihkan, duduk bersihkan meja sendiri.. l, sipp lah, standar hokben",0.0,0
+"Rame banget, makanan nya enak tapi kebersihan perlu ditingkatkan terutama di mainan anaknya, sangat bauk dan kotor, apa lagi banyak pengunjung yang tidak lepas alas kaki nya saat masuk area bermain anak2, harap diperhatikan","rame banget, makanan nya enak kebersihan ditingkatkan mainan anaknya, bauk kotor, pengunjung lepas alas kaki nya masuk area bermain anak2, harap diperhatikan",-0.2732,0
+"Hari minggu kemarin ke sana, AC mati, lampu juga beberapa kali mati, bungkus bawa pulang egg roll agak gosong tidak seperti biasamya, dan staff kewalahan karna ada acara birthday juga","minggu kemarin sana, ac mati, lampu kali mati, bungkus bawa pulang egg roll gosong biasamya, staff kewalahan karna acara birthday",0.0,0
+"High chair nya ditambah dong, masa cuma nyediain 1. Jadi harus nunggu lama pengunjung lain selesai makan baru bisa naruh baby saya.","high chair nya ditambah dong, nyediain 1. nunggu pengunjung selesai makan naruh baby saya.",0.0,0
+Resto tolol kaya gini kalo Gx niat buka di go biz matiin aplikasi lue atau delete aplikasi go biz ny ... 👎👎👎 …,resto tolol kaya gini kalo gx niat buka go biz matiin aplikasi lue delete aplikasi go biz ny ... 👎👎👎 …,0.0,0
+"Enak g terlalu ramai, kesukaan anak2.","enak g ramai, kesukaan anak2.",0.0,0
+"Jika mencari makanan jepang ala fastfood,disini tempatnya. Berbagai pilihan makanan dan minuman tersedia disini,ada ebi furai ,minuman es kacang merah,teh ocha,dll.parkir tersedia luas dan ada arena bermain anak sehingga dijamin membuat anak kecil betah.","mencari makanan jepang ala fastfood,disini tempatnya. pilihan makanan minuman tersedia disini,ada ebi furai ,minuman es kacang merah,teh ocha,dll.parkir tersedia luas arena bermain anak dijamin anak betah.",0.0,0
+"Tempat yang bagus dan nyaman, makanan juga enak. Service dari pegawai juga bagus. Saya sudah beberapa kali kesini. Namun, ada beberapa point komplain dan saran dari saya berdasarkan pengalaman saya datang hari ini. …","bagus nyaman, makanan enak. service pegawai bagus. kali kesini. namun, point komplain saran berdasarkan pengalaman ini. …",0.0,0
+"Udah kebiasa di cabang A. Yani, pas kesini lagi ordernya beda dg cara lama hahaaa Rasa tetap oke,lebih bnyak varian dan promo tiap bulannya. …","udah kebiasa cabang a. yani, pas kesini ordernya beda dg hahaaa oke,lebih bnyak varian promo bulannya. …",0.0,0
+"Rasa mantaap, suasana jg tenang enak buat nongki2 ma temen2 & kluarga.. klo harga ya okelah...","mantaap, suasana jg tenang enak nongki2 ma temen2 & kluarga.. klo harga ya okelah...",0.0,0
+"Please, kemarin beef yakinikunya paprika hijaunya sudah terlalu leleh, cuman tempatnya enak disini luas. Karena kurang puas hari ini ke hokben PTC alhamdulillah dapat beef yakiniku yg paprika dan bombaynya masih kriukkkk","please, kemarin beef yakinikunya paprika hijaunya leleh, cuman tempatnya enak luas. puas hokben ptc alhamdulillah beef yakiniku yg paprika bombaynya kriukkkk",0.3182,1
+Salah satu tempat mkn favorit si kakak. Harga bersahabat trs rasa perpaduan jepang indonesia😄😄 …,salah mkn favorit si kakak. harga bersahabat trs perpaduan jepang indonesia😄😄 …,0.0,0
+"Tempatnya asik, tidak terlalu rame juga, Pelayanan ramah dan cleaning service nya juga gerak cepat membersihkan mejanya sesaat setelah beberapa customer selesai makan,","tempatnya asik, rame juga, pelayanan ramah cleaning service nya gerak cepat membersihkan mejanya customer selesai makan,",0.0,0
+"Maaf ternyata HokBen mahal juga ya,sy pesan antar chicken teriyaki kok dpt hy 6 potong kecil dg harga 33 rb apa memang ada perubahan jumlah dan volume ya","maaf hokben mahal ya,sy pesan chicken teriyaki dpt hy 6 potong dg harga 33 rb perubahan volume ya",0.0,0
+"Hokben berdiri sendiri, dengan parkir yang lumayan. Sekarang ada tambahan menu Mie Ramen.","hokben berdiri sendiri, parkir lumayan. tambahan menu mie ramen.",0.0,0
+"Pelayanan cukup lama. Pada kunjungan saat weekend (tidak ramai dan menu sudah ready), untuk pesanan siap saji membutuhkan pelayanan 20 menit, sedangkan menu ramen membutuhkan waktu …","pelayanan lama. kunjungan weekend (tidak ramai menu ready), pesanan saji membutuhkan pelayanan 20 menit, menu ramen membutuhkan …",0.0,0
+Lagi renov jadi kursi terbatas. Jadi bungkus bawa pulang. Pelayanan ramah standar hokben. Parkir mobil atau motor luas dan banyak. Bisa drive thru. Mungkin abis renov jadi makin bagus.,renov kursi terbatas. bungkus bawa pulang. pelayanan ramah standar hokben. parkir mobil motor luas banyak. drive thru. abis renov bagus.,0.0,0
+"Tempatnya sangat cozy, pelayanan juga baik, selalu suka makan di hokben 😋👍🏽 …","tempatnya cozy, pelayanan baik, suka makan hokben 😋👍🏽 …",0.0,0
+Tempat cocok untuk menikmati makanan dan makanan yang selalu berinovasi,cocok menikmati makanan makanan berinovasi,0.0,0
+Kalau lapar jangan makan di sini. Pelayanan nya lama sekali.,lapar makan sini. pelayanan nya sekali.,0.0,0
+Tempat makan yang selalu ramai.. dan tempat parkir yg luas Dan nyaman,makan ramai.. parkir yg luas nyaman,0.0,0
+"Menu set value sudah sangat cukup membuat saya kenyang dan selalu jadi satu""nya menu yg saya pesan disini, tapi bukan berarti menu yg lain tidak enak ya. Di sini tersedia berbagai menu set bento dengan varian harga standar siap saji. Untuk …","menu set value kenyang satu""nya menu yg pesan disini, menu yg enak ya. tersedia menu set bento varian harga standar saji. …",0.34,1
+Resto hokben di sini tempatnya sangat luas. Bisa pilih didalam ruang atau diluar. Tempatnya juga asri banget. Menunya sepertinya menu hokben umumnya. Cocok untuk datang bersama keluarga atau mengadakan acara anak². Tempat parkirnya juga luas.,resto hokben tempatnya luas. pilih didalam ruang diluar. tempatnya asri banget. menunya menu hokben umumnya. cocok keluarga mengadakan acara anak². parkirnya luas.,0.0,0
+"Makanan favorit, suasana nyaman. Parkiran luas. Ada area bermain anak.","makanan favorit, suasana nyaman. parkiran luas. area bermain anak.",0.0,0
+Tempat favorit untuk makan masakan khas negeri Jepang. Tempatnya luas dan nyaman. Mudah dijangkau dan parkir sangat mudah. Untuk wahana mainan anak selama pandemi masih ditutup ya.,favorit makan masakan khas negeri jepang. tempatnya luas nyaman. mudah dijangkau parkir mudah. wahana mainan anak pandemi ditutup ya.,0.0,0
+"Waduh ini makanan kesukaan kita, kenapa makin menurun kualitas nasi nya, yang saya tau dan rasakan nasi nya hokben itu terbaik karena beda dengan nasi yg dijual pada umumnya.. mohon di cek kembali ya sebagai bahan pertimbangan.. …","makanan kesukaan kita, menurun kualitas nasi nya, tau rasakan nasi nya hokben terbaik beda nasi yg dijual umumnya.. mohon cek ya bahan pertimbangan.. …",0.0,0
+"Tempat makan cepat saji hoka bento, tempatnya luas, parkiran luas, nyaman ubtuk nongkrong, tersedia tempat duduk indoor dan outdoor, bisa jadi tempat nobar karna disediakan tv besar dan proyektor, biasa jadi tempat ulang tahun anak-anak juga.","makan cepat saji hoka bento, tempatnya luas, parkiran luas, nyaman ubtuk nongkrong, tersedia duduk indoor outdoor, nobar karna disediakan tv proyektor, ulang anak-anak juga.",0.0,0
+"Tempatnya bagus, bersih. Makanannya juga enak. Mantap..","tempatnya bagus, bersih. makanannya enak. mantap..",0.0,0
+"Protokol kesehatan saat pandemi sudah baik, pergantian shif karyawan sudah terjeda. Pelayanan untuk driver online dibedakan. …","protokol kesehatan pandemi baik, pergantian shif karyawan terjeda. pelayanan driver online dibedakan. …",0.0,0
+Nice place cocok bawa anak2 bwt mainan smbl makan. Tmptny terang bersih,nice place cocok bawa anak2 bwt mainan smbl makan. tmptny terang bersih,0.4215,1
+Makanannya enak dan banyak promo/cashback. Mantap pokoknya. Suka banget dengan kebersihannya.,makanannya enak promo/cashback. mantap pokoknya. suka banget kebersihannya.,0.0,0
+"Tempat bagus, tapi masih renovasi masih kurang nyaman untuk sementara makan","bagus, renovasi nyaman makan",0.0,0
+"Pelayanannya perlu di tingkatkan lagi, saat cust membayar dan ada trouble","pelayanannya tingkatkan lagi, cust membayar trouble",-0.4019,0
+"JANGAN ORDER BUAT SAHUR Bulan Ramadhan di Resto ini!!!! BAru order sekali Udah Kapok, Order jam 2.46 selsei Sampe subuh jam 4.14, itu pun Mundur2 terus waktu antarnya, klo emang ga sanggup ya jangan Terima Orderan Online dong, Terlihat …","order sahur ramadhan resto ini!!!! order udah kapok, order jam 2.46 selsei sampe subuh jam 4.14, mundur2 antarnya, klo emang ga sanggup ya terima orderan online dong, …",0.0,0
+Drive thru Jadi andalan saat anak2 malas makan The best,drive thru andalan anak2 malas makan the best,0.6369,1
+More soup. More salads. Minumnya refill ambil sendiri dan ada tempat beramain anak. Buat mamak yg pengen pacaran sama bapak. Disini bisa ajak anaknya tanpa ganggu pacarannya.. Tapi tetep diawasi yaa 😂 …,more soup. more salads. minumnya refill ambil beramain anak. mamak yg pengen pacaran bapak. ajak anaknya ganggu pacarannya.. tetep diawasi yaa 😂 …,0.0,0
+Nyaman bersih dan rasanya oke banget. Parkiran juga luas,nyaman bersih oke banget. parkiran luas,0.0,0
+"Tempat nya lumayan luas, dekat dari gereja hky. Pelayanannya ramah👍pelanggan harus lebih aware jika hokben sekarang banyak yg self service. Saya kasihan dengan pelayan yg masih ikut bersih-bersih meja padahal hal itu merupakan tanggung jawab pelanggan juga …","nya lumayan luas, gereja hky. pelayanannya ramah👍pelanggan aware hokben yg self service. kasihan pelayan yg bersih-bersih meja tanggung pelanggan …",0.0,0
+Sekarang sudah tidak ada playground/playhouse-nya lagi. Menu minum masih kurang pilihannya. …,playground/playhouse-nya lagi. menu minum pilihannya. …,0.0,0
+Pelayananya sesuai dengan standarr kesehatan 👍 enak dan pelayananya pun sangat baik 👍👍👍 …,pelayananya sesuai standarr kesehatan 👍 enak pelayananya 👍👍👍 …,0.0,0
+"Hokben paling nyaman di Surabaya. Parkir luas, tempatnya bersih dan dingin, rasa masakan paling enak dan stabil se Surabaya. Walaupun ramai masakan tetap enak. Pegawainya ramah.. Cuma sedikit lama penyajiannya, pernah juga tertukar waktu …","hokben nyaman surabaya. parkir luas, tempatnya bersih dingin, masakan enak stabil surabaya. ramai masakan enak. pegawainya ramah.. penyajiannya, tertukar …",0.0,0
+"Tempat bagus, parkir luas, ada musholla juga... Play ground, top lah","bagus, parkir luas, musholla juga... play ground, top",0.4939,1
+"Rasa keinginan mu akan makanan jepang ke jepangan ini tersedia 24jm bro, sangat ramah pelayanannya yg pasti lebih nyaman dari Hokben yang ada di mall - mall pada umumnya","mu makanan jepang jepangan tersedia 24jm bro, ramah pelayanannya yg nyaman hokben mall - mall",0.0,0
+"Pelayanan hokben memuaskan, cepet banget, cuman masih renov, jadi agak berantakan aja, tapi its oke untuk peningkatan lebih baik yaaa..","pelayanan hokben memuaskan, cepet banget, cuman renov, berantakan aja, its oke peningkatan yaaa..",0.0,0
+"Protokol kesehatan diterapkan dengan baik di Hokben Polisi Istimewa ini, untuk dine-in hanya ada tempat duduk outdoor dengan maksimal 30 menit waktu makan.","protokol kesehatan diterapkan hokben polisi istimewa ini, dine-in duduk outdoor maksimal 30 menit makan.",0.0,0
+"Baru tahu ada Hokben di lokasi ini. Layout dan interiornya cakep ya, kekinian. Di tiap meja ada stop kontak juga. Ada ruang tersendiri untuk pesta ultah anak-anak. Pelayanan cepat dan karyawannya ramah. Untuk pesanan online ada counternya …","hokben lokasi ini. layout interiornya cakep ya, kekinian. meja stop kontak juga. ruang tersendiri pesta ultah anak-anak. pelayanan cepat karyawannya ramah. pesanan online counternya …",-0.296,0
+Layanan Drivethru nya lumayan lama...,layanan drivethru nya lumayan lama...,0.0,0
+"Aku suka rasanya, dan juga tempatnya yang temaram romantis. Cozy dan terkesan elegance banget. Comfortable!!","suka rasanya, tempatnya temaram romantis. cozy terkesan elegance banget. comfortable!!",0.7896,1
+Bukan menu siap saji tidak ready,menu saji ready,0.3612,1
+Pelayanan bagus Suasana nyaman Meja tertata rapi …,pelayanan bagus suasana nyaman meja tertata rapi …,0.0,0
+"Disini enak banget, tempatnya luas dan nggak terlalu rame ❤️❤️","enak banget, tempatnya luas nggak rame ❤️❤️",0.0,0
+"Tempat makannya enak, staf ramah, dan juga makanannya enak ala Jepang","makannya enak, staf ramah, makanannya enak ala jepang",0.0,0
+"Pelayanan cepat,, pegawai ramah. Harga terjangkau. Makanan enak.","pelayanan cepat,, pegawai ramah. harga terjangkau. makanan enak.",0.0,0
+Ayam nya agak kurang cocok rasa nya buat ku. Egg roll sama salad ttp uennaakk. Ada tukang parkir nya yaa. Aku kira gratis. Pdhl tempat nya kaya ada parkiran sndr gt di dalem buat mobil. Eh ternyata ada tukang parkirnya. Kaya nya gak resmi …,ayam nya cocok nya ku. egg roll salad ttp uennaakk. tukang parkir nya yaa. gratis. pdhl nya kaya parkiran sndr gt dalem mobil. eh tukang parkirnya. kaya nya gak resmi …,0.3182,1
+Kalo memang tidak mampu utk melayani pesanan online lebih baik dimatikan saja pesanan online nya... Jangan menyusahkan pelanggan maupun driver yg melakukan pesanan online...,kalo utk melayani pesanan online dimatikan pesanan online nya... menyusahkan pelanggan driver yg pesanan online...,0.0,0
+Tempat strategis buat lunch dan ketemuan harga standard,strategis lunch ketemuan harga standard,0.0,0
+"Paling Worth it Kalau dari Timur pas mau ke Barat, Makannya disini","worth it timur pas barat, makannya",0.2263,1
+Selalu langganan ke sini bareng sahabat. Egg chicken rollnya juara!,langganan bareng sahabat. egg chicken rollnya juara!,0.0,0
+Tempatnyaaa luas dan nyaman. Taste nya dari dulu gak berubah.,tempatnyaaa luas nyaman. taste nya gak berubah.,0.0,0
+"Untuk lokasinya termasuk besar dibanding hokben lain, tidak terlalu ramai dan memiliki area parkir sendiri. Untuk makanan mungkin bisa menggunakan aplikasi kadang2 ada promo","lokasinya dibanding hokben lain, ramai memiliki area parkir sendiri. makanan aplikasi kadang2 promo",0.0,0
+Ada perubahan cara pesan dan transaksi,perubahan pesan transaksi,0.0,0
+"Nasi nya banyak juga, good price good vibe good food","nasi nya juga, good price good vibe good food",0.8271,1
+"Habis renovasi lebih bagus dan nyaman. Mungkin perlu di evaluasi sistem drive thru dan parkir motor ojol, karena letak parkir motor ojol agak mengganggu mobil yg mau belok jadi kesusahan banget ☺️","habis renovasi bagus nyaman. evaluasi sistem drive thru parkir motor ojol, letak parkir motor ojol mengganggu mobil yg belok kesusahan banget ☺️",0.0,0
+Enak buat nyantai,enak nyantai,0.0,0
+"Tempatnya lebih luas , pelayanannya cepat, harganya relatif murah dan terjangkau cocok untuk anak 2dan untuk karyawan makan siang , tempat ulangtahun untuk anak 2 juga lumayan , banyak variasi cara bermain .","tempatnya luas , pelayanannya cepat, harganya relatif murah terjangkau cocok anak 2dan karyawan makan siang , ulangtahun anak 2 lumayan , variasi bermain .",0.0,0
+Cukup pesan dan tunggu 10 menit.,pesan tunggu 10 menit.,0.0,0
+"Pengambilannya sangat cepat, bahkan tidak sampai 5 menit","pengambilannya cepat, 5 menit",0.0,0
+"Pesan take away, minta sambalnya dikasih sedikit, atau malah tidak sama sekali. Tidak disediakan peralatan makan, dll. Makan dengan mulut langsung ???? …","pesan take away, sambalnya dikasih sedikit, sekali. disediakan peralatan makan, dll. makan mulut langsung ???? …",0.0,0
+"Ini resto fast food atau pangkalan ojol, di halaman belakang banyak ojol..apalagi grab …","resto fast food pangkalan ojol, halaman ojol..apalagi grab …",0.0,0
+"suka, suka saladnya 😍😍👍👍👏👏 …","suka, suka saladnya 😍😍👍👍👏👏 …",0.0,0
+"Siang jam 13.00 AC mati, masih sejuk (kunjungi Selasa 25 Mei 2021)","siang jam 13.00 ac mati, sejuk (kunjungi selasa 25 mei 2021)",0.0,0
+Sudah lama berada di layanan TAKE AWAY.,layanan take away.,0.0,0
+Tempatnya mudah dijangkau dan tempat parkirnya luas. Terdapat juga area bermain anak-anak,tempatnya mudah dijangkau parkirnya luas. area bermain anak-anak,0.0,0
+Pelayanannya kurang bagus...diterapkan untuk ojol menantn order selsai LM mint maaf kit di kerjo,pelayanannya bagus...diterapkan ojol menantn order selsai lm mint maaf kit kerjo,0.0,0
+"Untung saya satu-satunya yang ada di sana saat tempat itu sedang diperbaiki, jadi saya mencium bau cat","untung satu-satunya diperbaiki, mencium bau cat",0.0,0
+Ya hokben. Senang rasanya bersantap di tempat,ya hokben. senang bersantap,0.0,0
+"Antriannya luar biasa saat puasa, antrian ojol lebih pendek dari biasanya","antriannya puasa, antrian ojol pendek",0.0,0
+"Restorannya bagus, bersih, dan ada tempat parkir mobil","restorannya bagus, bersih, parkir mobil",0.0,0
+Pelayanan yang tidak adil. Mengapa pelanggan tetap lebih diprioritaskan dibandingkan pelanggan ojol?,pelayanan adil. pelanggan diprioritaskan dibandingkan pelanggan ojol?,0.0,0
+"Makanan favorit anak saya, sayangnya tidak ada wifi","makanan favorit anak saya, sayangnya wifi",0.0,0
+Tempatnya nyaman dan ada tempat bermainnya Memey,tempatnya nyaman bermainnya memey,0.0,0
+terbaik,terbaik,0.0,0
+"Nyaman. Sayangnya, taman bermain anak mini di dekatnya dibongkar.","nyaman. sayangnya, taman bermain anak mini dekatnya dibongkar.",0.0,0
+"Tutup pada tengah malam, tempat yang bagus untuk mencari makan siang.","tutup malam, bagus mencari makan siang.",0.0,0
+Jaringan makanan cepat saji Cina. Makanannya oke dan ada WiFi gratis.,jaringan makanan cepat saji cina. makanannya oke wifi gratis.,0.0516,1
+Lebih banyak orang berkunjung pada sore hari dibandingkan pada siang hari...,orang berkunjung sore dibandingkan siang hari...,-0.3612,0
+Hidangan laut,hidangan laut,0.0,0
+Tempat paling nyaman di Surabaya Jika Anda membawa keluarga😂 …,nyaman surabaya membawa keluarga😂 …,0.0,0
+Aku tidak mengira ini akan menjadi yang terakhir bagi kami,,0.0,0
+Pesanan peningkatan cepat,pesanan peningkatan cepat,0.0,0
+Pelayanan untuk take away sangat lama,pelayanan take away,0.0,0
+Anakku paling suka nongkrong disini..,anakku suka nongkrong disini..,0.0,0
+Tempstnya menyewakan taman bermain,tempstnya menyewakan taman bermain,0.0,0
+Lokasi strategis. Berdiri toko tunggal,lokasi strategis. berdiri toko tunggal,0.0,0
+Jika,,0.0,0
+Tidak apa-apa,apa-apa,0.0,0
+Banyak dan enak,enak,0.0,0
+Cocok untuk nyante2 atau bisnis...👍 …,cocok nyante2 bisnis...👍 …,0.0,0
+Itu bagus tapi agak membosankan,bagus membosankan,0.0,0
+Jika,,0.0,0
+Sekarang makanannya tidak enak,makanannya enak,0.0,0
+Antriannya tidak panjang meski ramai,antriannya ramai,0.0,0
+Itu penuh sesak,penuh sesak,0.0,0
+Siiiipppp.... Joossss,siiiipppp.... joossss,0.0,0
+Seringkali hampir bingung masuk & keluar lokasi,seringkali bingung masuk & lokasi,0.0,0
+Selera yang bagus. Harga sedang.,selera bagus. harga sedang.,0.0,0
+Wow..untuk pertama kalinya di sini..menarik,wow..untuk kalinya sini..menarik,0.0,0
+Bu huyu,bu huyu,0.0,0
+"Yang terbaik, tempatnya enak","terbaik, tempatnya enak",0.0,0
+Selamat datang tok,selamat tok,0.0,0
+Cocok untuk pertemuan,cocok pertemuan,0.0,0
+Restoran Jepang yang bagus.....,restoran jepang bagus.....,0.0,0
+Buka sampai malaaaam haha,buka malaaaam haha,0.4588,1
+Bento adalah yang terbaik menurutku,bento terbaik menurutku,0.0,0
+Itu keren dan bersih,keren bersih,0.0,0
+Rapi dan banyak pengunjung,rapi pengunjung,0.0,0
+Kedua...,kedua...,0.0,0
+menyesap,menyesap,0.0,0
+Restoran cepat saji Jepang,restoran cepat saji jepang,0.0,0
+saya ingin,,0.0,0
+Restoran Malming penuh....,restoran malming penuh....,0.0,0
+Sup tahunya hambar,sup tahunya hambar,0.0,0
+Anak-anak menyukainya,anak-anak menyukainya,0.0,0
+Yahoot,yahoot,0.0,0
+Bisakah kamu...,kamu...,0.0,0
+Besar,,0.0,0
+menyesap 👍 …,menyesap 👍 …,0.0,0
+"Romadlon 24 jam, dapat diandalkan","romadlon 24 jam, diandalkan",0.0,0
+Banyak,,0.0,0
+Lokasi di tengah kota...siiip,lokasi kota...siiip,0.0,0
+untuk R,r,0.0,0
+Luarrr bbbiiiiaasssssaaaaa......,luarrr bbbiiiiaasssssaaaaa......,0.0,0
+spesial,spesial,0.0,0
+Mereka,,0.0,0
+aplikasi manta,aplikasi manta,0.0,0
+Naaaaaaaaaaaaaaaaaaaaa,naaaaaaaaaaaaaaaaaaaaa,0.0,0
+Siiiip,siiiip,0.0,0
+Mantap,mantap,0.0,0
+tempat parkir berputar-putar,parkir berputar-putar,0.0,0
+Sebuah sayap,sayap,0.0,0
+Asik,asik,0.0,0
+Mantaap,mantaap,0.0,0
+menyesap,menyesap,0.0,0
+Soooo,soooo,0.0,0
+Enaknya,enaknya,0.0,0
+Ini sangat keren,keren,0.0,0
+Dia,,0.0,0
+Baru kali ini nyobain HokBen dengan nasi yg tidak seperti ciri khas HokBen serta saladnya gak fresh asam,kali nyobain hokben nasi yg ciri khas hokben saladnya gak fresh asam,0.3182,1
+"menu banyak yg ga ready, harusnya bilang dari awal suggest menu yg lain yg ready, pesen hoka hemat 1 lauk cuman ada ekado 1 sisanya 3 nunggu hampir setengah jam, bilang nanti diantar, bilang 2 menit pas ditanya, pas ditanya lagi malah suruh bawa sendiri, bikin mood makan jelek aja, ga ada komplimen apa apa lagi Lainnya","menu yg ga ready, bilang suggest menu yg yg ready, pesen hoka hemat 1 lauk cuman ekado 1 sisanya 3 nunggu jam, bilang diantar, bilang 2 menit pas ditanya, pas suruh bawa sendiri, bikin mood makan jelek aja, ga komplimen",0.6124,1
+"menu banyak yg ga ready, harusnya bilang dari awal suggest menu yg lain yg ready, pesen hoka hemat 1 lauk cuman ada ekado 1 sisanya 3 nunggu hampir setengah jam, bilang nanti diantar, bilang 2 menit pas ditanya, pas ditanya lagi malah suruh bawa sendiri, bikin mood makan jelek aja, ga ada komplimen apa apa lagi","menu yg ga ready, bilang suggest menu yg yg ready, pesen hoka hemat 1 lauk cuman ekado 1 sisanya 3 nunggu jam, bilang diantar, bilang 2 menit pas ditanya, pas suruh bawa sendiri, bikin mood makan jelek aja, ga komplimen",0.6124,1
+bintang kejora buat mas mas hokben yang saya temui di hari kamis tanggal 2 mei 2024. mas masnya gercep dan informatif soal promo yang ada.. soalnya sejauh yang saya temuin biasanya kalo outlet punya promo tuh di gatekeep sama karyawannya …,bintang kejora mas mas hokben temui kamis tanggal 2 mei 2024. mas masnya gercep informatif promo ada.. temuin kalo outlet promo tuh gatekeep karyawannya …,0.0,0
+untuk pelayanan sudah tidak seperti dulu sekarang banyak baki makanan yang segera di bersihkan minta baby chair juga no respon …,pelayanan baki makanan bersihkan baby chair no respon …,-0.296,0
+Kesini cuma mau ambil promo hokben x jenius sih..wkwkwk . Tp layanannya ramah kok meski aku pakek promo jenius..cuma antri lagi banyak pengunjung karena lagi weekend.,kesini ambil promo hokben x jenius sih..wkwkwk . tp layanannya ramah pakek promo jenius..cuma antri pengunjung weekend.,0.0,0
+Outlet yang ini dapat dikatakan nyempal di ujung sih Tapi plus nya bisa melihat jalan uar karena ada jendela besar ke luar …,outlet nyempal ujung sih plus nya jalan uar jendela …,0.0,0
+"Tempatnya nyaman, bersih. Suka duduk di tempat yang dekat kaca. Pelayanan baik dan cepat. Mohon dijaga kualitasnya. Terima kasih","tempatnya nyaman, bersih. suka duduk kaca. pelayanan cepat. mohon dijaga kualitasnya. terima kasih",0.0,0
+"Pertama kali ke HokBen si Royal ini setelah beberapa tahun di Surabaya wkwk. Mantap 100%, ga mengecewakan sama sekali, dari makanannya, pelayanan, tempat dan suasanya sangat2 enak. Bersih juga. Kursi mejanya cukup banyak. Untuk harga sesuai …","kali hokben si royal surabaya wkwk. mantap 100%, ga mengecewakan sekali, makanannya, pelayanan, suasanya sangat2 enak. bersih juga. kursi mejanya banyak. harga sesuai …",0.0,0
+"Hokben yang berada di dalam mall. Lokasinya diposisi paling selatan dari Royal Plaza. Berdekatan dengan restoran Jepang lainnya. Rasanya enak sesuai standart hoka hoka bento pada umumnya, makanan juga cukup variatif. Resto ini termasuk luas …","hokben mall. lokasinya diposisi selatan royal plaza. berdekatan restoran jepang lainnya. enak sesuai standart hoka hoka bento umumnya, makanan variatif. resto luas …",0.0,0
+"dr dulu tetep bertahan restonya, cepet pelayanannya krn fast food sih ya. pilihan makanannya jg macem2, sebelahan sama yoshinoya. buat hoka hemat sekarang kena IDR 27.5k wkwkw naik mulu ya~","dr tetep bertahan restonya, cepet pelayanannya krn fast food sih ya. pilihan makanannya jg macem2, sebelahan yoshinoya. hoka hemat kena idr 27.5k wkwkw mulu ya~",0.0,0
+"Hokben memang sudah tidak usah diragukan lagi sih. Selalu enak cita rasanya, dan pelayanannya juga baik","hokben diragukan sih. enak cita rasanya, pelayanannya",0.0,0
+kok sekarang HokBen jorok ya meja banyak yg tidak langsung d bersihkan saya sampe dua kali bilang lho tapi slow respon banget malah terkesan tidak peduli,hokben jorok ya meja yg langsung d bersihkan sampe kali bilang lho slow respon banget terkesan peduli,0.0,0
+"Coba coba ada promo dari kartu kredit BRI Tokopedia Card setiap hari jumat, Promo Bento Spesial 1 (buy 1 get 1). …","coba coba promo kartu kredit bri tokopedia card jumat, promo bento spesial 1 (buy 1 get 1). …",0.0,0
+"Agak kecewa ketika ditawarkan menu Value Set. Dengan harga Rp.30.910 tiba-tiba pelayan laki2 yg paling rapi bilang dgn suara nggremeng ""upgrade valueset kak, dumpling pakai daun bwg atau tdk"" tanpa ada PENJELASAN kalai Upgrade nambah 5.910 …","kecewa ditawarkan menu value set. harga rp.30.910 pelayan laki2 yg rapi bilang dgn suara nggremeng ""upgrade valueset kak, dumpling pakai daun bwg tdk"" penjelasan kalai upgrade nambah 5.910 …",0.4215,1
+"Hokben, terkenal dengan nasi putihnya yang pulen dan tekstur kenyal. Lokasi sangat mudah ditemui, pelayanan cepat, dan ada area tempat duduk dekat jendela yang memperlihatkan jalan raya Ahmad Yani.","hokben, terkenal nasi putihnya pulen tekstur kenyal. lokasi mudah ditemui, pelayanan cepat, area duduk jendela jalan raya ahmad yani.",0.0,0
+"Alternatif kalo bosen makan ayam, lalapan apalagi mie""an 😆 Tempatnya pas.. Dpt city view. …","alternatif kalo bosen makan ayam, lalapan mie""an 😆 tempatnya pas.. dpt city view. …",0.0,0
+"Seperti biasa pelayanan cepat, staff ramah, comfort food. Tapi meja banyak yg kotor. Mungkin bisa disediakan tempat untuk membereskan tray & sisa makan, agar pelanggan bisa self cleaning.","pelayanan cepat, staff ramah, comfort food. meja yg kotor. disediakan membereskan tray & sisa makan, pelanggan self cleaning.",0.3612,1
+"Suasana crowded kalau weekend, staff untukembersihkan kurang gercep. Makanan enak, minuman enak, staff yg melayani ramah","suasana crowded weekend, staff untukembersihkan gercep. makanan enak, minuman enak, staff yg melayani ramah",0.0,0
+"Uda lama sering makan di HokBen royal. Tp baru kmrin malam dpt kasir yg super judes dan ketus,cuma gara2 minta tambahan saus. Saya beli 2 porsi dpt saus sambal 3 ,saya minta lagi dong Krn itu kurang. Tp simbak nya ketus amit2. Uda ketus …","uda makan hokben royal. tp kmrin malam dpt kasir yg super judes ketus,cuma gara2 tambahan saus. beli 2 porsi dpt saus sambal 3 ,saya krn kurang. tp simbak nya ketus amit2. uda ketus …",0.5994,1
+Masih menjadi pilihan terbaik untuk makanan kategori cepat saji.,pilihan terbaik makanan kategori cepat saji.,0.0,0
+"Menu yang di tampilkan kurang lengkap, tempat masih kurang gercep utk kebersihannya. Rasanya juga kurang enak seperti HokBen di TP. Meskipun menghadap ke jendela, viewnya masih kurang bagus. Teh nya juga hambar alias gada rasanya.","menu tampilkan lengkap, gercep utk kebersihannya. enak hokben tp. menghadap jendela, viewnya bagus. teh nya hambar alias gada rasanya.",0.0,0
+"Coba menu baru butter miso beef. Sumpah, ini enak banget. Rasa dagingnya very umami. Asinnya pas, ada sedikit manis. Apalagi dimakan pakai nasi, salad, dan gorengan ala hokben. Pas.","coba menu butter miso beef. sumpah, enak banget. dagingnya very umami. asinnya pas, manis. dimakan pakai nasi, salad, gorengan ala hokben. pas.",0.0,0
+"makanan andalan kalau ke royal plaza & bingung mau makan apa, value set selalu jadi andalan, porsinya pas & rasa makanan udah pasti ga diragukan lagi 👍👍👍 …","makanan andalan royal plaza & bingung makan apa, value set andalan, porsinya pas & makanan udah ga diragukan 👍👍👍 …",0.34,1
+"Hokben Royal berada di pojok, saya lupa tepatnya di lantai apa, UG kalau gak salah. Untuk memesan menu harus mengantri, saat saya membeli memang antriannya sangat panjang, jadi lebih baik pilih tempat duduknya saja terlebih dahulu. …","hokben royal pojok, lupa tepatnya lantai apa, ug gak salah. memesan menu mengantri, membeli antriannya panjang, pilih duduknya dahulu. …",0.0,0
+"Tempat makan favorit bersama anak-anak, viewnya bagus sambil liat jalan, tempat makan yg nyaman bersama keluarga","makan favorit anak-anak, viewnya bagus liat jalan, makan yg nyaman keluarga",0.0,0
+"pelayanan sangat sangat gak minta kalau ada menu yang kosong cuman bilang ""KITA JUAL YANG ADA AJA"" tanpa dikasih tau menu apa yang ready","pelayanan gak menu kosong cuman bilang ""kita jual aja"" dikasih tau menu ready",0.3612,1
+"Kalau makanan sih oke, tempat juga oke apalagi view jalanan kota. Sayang tempatnya banyak lalat sehingga terkesan jorok.","makanan sih oke, oke view jalanan kota. sayang tempatnya lalat terkesan jorok.",0.0,0
+Pelayanan ramah dan fast respon Tempat enak nyaman dan cozy untuk mengobrol dan menikmati makanan Makanannya sesuai dengan sop hok ben pada umumnya Menurut saya lebih enak dari pada yoshinoya,pelayanan ramah fast respon enak nyaman cozy mengobrol menikmati makanan makanannya sesuai sop hok ben enak yoshinoya,0.0,0
+Restoran dengan masakan khas jepang ini letaknya asa di bagian barat lantai ground. Rasanya sama persis dengan hokben lainnya. Sayang meja makannya jorok sekali.. tidak segera di bersihkan meja yang ada sisa makanannya.,restoran masakan khas jepang letaknya asa barat lantai ground. persis hokben lainnya. sayang meja makannya jorok sekali.. bersihkan meja sisa makanannya.,0.0,0
+Mantap jiwa sllu... n gk bosen2 ma nih hokben no.1,mantap jiwa sllu... n gk bosen2 ma nih hokben no.1,0.0,0
+"kecewa, pembeli depan saya bisa nunggu paket promo tapi saya pesan gak bisa dengan alasan gas mati tolong kalo bikin promo yang niat","kecewa, pembeli nunggu paket promo pesan gak alasan gas mati tolong kalo bikin promo niat",0.0,0
+Tempat nyaman dan makanan enak. Bisa bayar pakai go paduan ovo. Rasa nasi nya yang khas dan enak banget. Staf ramah dan helpful.,nyaman makanan enak. bayar pakai go paduan ovo. nasi nya khas enak banget. staf ramah helpful.,0.4215,1
+"Ini sih favorite place dari kecil. Good place, good taste, good serve, dan muraaaahhhh. Japanese food paling juara pokoknya. Porsinya itu keliatannya dikit. Tapi begitu dimakan, masyaalloh ga pernah habis. Sup tofunya recommended, saladnya …","sih favorite place kecil. good place, good taste, good serve, muraaaahhhh. japanese food juara pokoknya. porsinya keliatannya dikit. dimakan, masyaalloh ga habis. sup tofunya recommended, saladnya …",0.91,1
+"Kecewa aja. Beli paket Premium Seafood untuk Take Away, udah Upgrade Minuman dari Ocha ke TEH KOTAK, eehh, minumannya gak ada di paket. Baru nyadar pas sudah sampai rumah. 😫 …","kecewa aja. beli paket premium seafood take away, udah upgrade minuman ocha teh kotak, eehh, minumannya gak paket. nyadar pas rumah. 😫 …",0.0,0
+"Selalu ramai pengunjung, nyaman, pelayanannya ramah. Fastfood yang enak dan affordable harganya. Tersedia bermacam-macam paket untuk sendiri maupun family, juga tersedia paket for kids..","ramai pengunjung, nyaman, pelayanannya ramah. fastfood enak affordable harganya. tersedia paket family, tersedia paket for kids..",0.0,0
+"Tempat nyaman , bersih .. paling suka duduk deket jendela karena bisa ngelihat lalu lintas jalan A.yani.. soal rasa enak , sama dengan hokben ditempat lain cuma klu di hokben polisi istimewa porsinya gtw knp lebih banyak .. untuk minuman ochanya tolong dimanisin dikit ..😊😊 …","nyaman , bersih .. suka duduk deket jendela ngelihat lintas jalan a.yani.. enak , hokben ditempat klu hokben polisi istimewa porsinya gtw knp .. minuman ochanya tolong dimanisin dikit ..😊😊 …",0.0,0
+"Paling suka sama salad sayurnya... Mayo nya itu yg bikin enak. Buat harga masih terjangkau sih, ya standar resto jepang. Buat rasanya sih lumayan. Cukup mengenyangkan buat saya, padahal ini yg paket murmer si HOKA. Harga minumnya aja sih yg …","suka salad sayurnya... mayo nya yg bikin enak. harga terjangkau sih, ya standar resto jepang. sih lumayan. mengenyangkan saya, yg paket murmer si hoka. harga minumnya aja sih yg …",0.0,0
+minta take away tapi di suruh kemas sendiri padahal kita bayar untuk takeaway,take away suruh kemas bayar takeaway,0.0,0
++ bersih nyaman - saya datangnya kepagian jadi ada beberapa menu yang kosong,+ bersih nyaman - datangnya kepagian menu kosong,0.0,0
+tempat kurang luas sampe2 yg kudunya harus pake 2 meja 3 kursih jd pake 2 meja 2 kursi alhasil anakku ga dpat tempat duduk krena di minta sm waiters nya seharusnya ya ada meja kursi cadangan atau waiting list dulu gak asal dimasukan …,luas sampe2 yg kudunya pake 2 meja 3 kursih jd pake 2 meja 2 kursi alhasil anakku ga dpat duduk krena sm waiters nya ya meja kursi cadangan waiting list gak dimasukan …,0.0,0
+"Mantab buat makan di tempat apalagi dekat kaca bisa lihat oemandangan luar dan enak deh pokoknya,petugas ramah2 juga lho.","mantab makan kaca lihat oemandangan enak deh pokoknya,petugas ramah2 lho.",0.0,0
+Ada beberapa meja kursi yang tersedia colokan. Sangat membantu Harga rasa layanan standar outlet.,meja kursi tersedia colokan. membantu harga layanan standar outlet.,0.0,0
+"Makanannya enak,minumannya seger. Tempatnya bersih,pelayanannya cepat dan ramah. Kursi sama mejanya sering full,lumayan rame sih apalagi kalo hari libur.","makanannya enak,minumannya seger. tempatnya bersih,pelayanannya cepat ramah. kursi mejanya full,lumayan rame sih kalo libur.",0.0,0
+Enak Tempat luas Bisa jadi pilihan utama kalau main ke mall …,enak luas pilihan utama main mall …,0.0,0
+"Kasir cowok sangat tidak ramah , minta mayo aja gak boleh pdhl di hokben rest area boleh","kasir cowok ramah , mayo aja gak pdhl hokben rest area",0.0,0
+"Hokben di royal plaza ini cozy banget tempatnya, apalagi kalo duduk di deket jendela kaca. Menunya enak2, keluarga saya suka & cocok makan disini, menunya keliatannya dikit tp kalo udah dimakan ternyata bikin kekenyangan, harga murah pas di kantong juga. Sipp dah 😘😘😘 …","hokben royal plaza cozy banget tempatnya, kalo duduk deket jendela kaca. menunya enak2, keluarga suka & cocok makan disini, menunya keliatannya dikit tp kalo udah dimakan bikin kekenyangan, harga murah pas kantong juga. sipp dah 😘😘😘 …",0.0,0
+Aplikasi online dibuka sedangkan tempat masih belum bisa masuk. Sudah posisi jarak jauh dapat order dan sampai masih harus nunggu lama sampai jam buka. …,aplikasi online dibuka masuk. posisi jarak order nunggu jam buka. …,0.0,0
+"kalo bikin promo yang niat, bilang nunggu tiba tiba gak bisa dengan alasan gas mati","kalo bikin promo niat, bilang nunggu gak alasan gas mati",0.0,0
+"Pelayanan pesanan lama padahal kata kasir nanti di antar, saya tunggu hampir 15 menit tidak kunjung di antar","pelayanan pesanan kasir antar, tunggu 15 menit kunjung",0.0,0
+Enak dan nyaman utk makan sambil lihat pemandangan jln.A yani,enak nyaman utk makan lihat pemandangan jln.a yani,0.0,0
+"Saran mohon siapkan rak untuk tempat wadah selesai makan, karena dikondisi ramai. Karyawan mungkin kesulitan untuk membersihkan dan pengunjung kesulitan mencari meja bersih. Overall pelayanan sudah bagus","saran mohon siapkan rak wadah selesai makan, dikondisi ramai. karyawan kesulitan membersihkan pengunjung kesulitan mencari meja bersih. overall pelayanan bagus",0.0,0
+"Pelayanan ramah, karyawan selalu antusias saat melayani, makananya jg enak2 rasanya Hokben royal plaza top banget dahh...👍👍 …","pelayanan ramah, karyawan antusias melayani, makananya jg enak2 hokben royal plaza top banget dahh...👍👍 …",0.2023,1
+"Kidzu Bento 1, lumayan enak.. hokben royal letaknya di pojokan, paling suka makan pinggir jendela","kidzu bento 1, lumayan enak.. hokben royal letaknya pojokan, suka makan pinggir jendela",0.0,0
+"Pelayanan baik,cakap, makananya enak tempatnya juga bersih","pelayanan baik,cakap, makananya enak tempatnya bersih",0.0,0
+"Layanan menu fried chicken lama dan cenderung jutek dg pelanggan, dijanjikan 20 menit ternyata 35 menit belum ada sajiannya, setelah dikomplain dua kali diberi satu gelas milo dan pesanan segera disajikan.","layanan menu fried chicken cenderung jutek dg pelanggan, dijanjikan 20 menit 35 menit sajiannya, dikomplain kali gelas milo pesanan disajikan.",0.0,0
+"Tetap pesen kesukaan putri saya, bento spesial hokben","pesen kesukaan putri saya, bento spesial hokben",0.0,0
+"Tempatnya luas, kelihatan kalo dari depan royal, strategis, enak kalo buat ngumpul sama keluarga","tempatnya luas, kalo royal, strategis, enak kalo ngumpul keluarga",0.0,0
+"Tempatnya bagus, makanannya enak, good","tempatnya bagus, makanannya enak, good",0.4404,1
+"""KITA JUAL YANG ADA AJA"" kalau gak siap gausah bikin promo","""kita jual aja"" gak gausah bikin promo",0.0,0
+Lambat resto instan proses lama tinggal packing qja malah beli offline di dahulukan payah ini resto 😡😡😡👎👎👎 …,lambat resto instan proses tinggal packing qja beli offline dahulukan payah resto 😡😡😡👎👎👎 …,-0.128,0
+"bintang 3 dulu ya.. overall makanan rasa oke, suasana oke, pelayanan (mau kasih bintang 1 tapi ngga tega).. langganan keluarga sejak 2014-skrg.. cuman kenapa ya skrg kalau pesen yg …","bintang 3 ya.. overall makanan oke, suasana oke, pelayanan (mau kasih bintang 1 ngga tega).. langganan keluarga 2014-skrg.. cuman ya skrg pesen yg …",0.0,0
+"Pelayanan ramah, kebersihan oke","pelayanan ramah, kebersihan oke",0.0,0
+"Parkiran oke, makanan dan pelayanan ramah","parkiran oke, makanan pelayanan ramah",0.0,0
+HokBen Royal Plaza Surabaya Menu pesanan saya: …,hokben royal plaza surabaya menu pesanan saya: …,0.0,0
+"Saat sudah gajian, Makan berdua jadi lebih asik. Disini Tempat yang cocok Bagi pecinta makanan jepang.","gajian, makan berdua asik. cocok pecinta makanan jepang.",0.0,0
+"bagus, bersih, pelayanan bagus,ramah,masakan cukup enak, tempat strategis","bagus, bersih, pelayanan bagus,ramah,masakan enak, strategis",0.0,0
+"Lokasinya berada di dalam mall Royal Plaza, tapi dengan view jalanan A. Yani Surabaya. Jarang makan di sini, tapi bisa menjadi pilihan kalau binggung makan apa. Rasa enak standar hokben😃. Cuma memang kalay jam makan siang apalagi pas weekend agak susah cari meja karena full pengunjung. …","lokasinya mall royal plaza, view jalanan a. yani surabaya. jarang makan sini, pilihan binggung makan apa. enak standar hokben😃. kalay jam makan siang pas weekend susah cari meja full pengunjung. …",0.0,0
+"Hokben yang selalu rame apalagi pas Sabtu Minggu dan hari libur nasional, mau makan antrinya mengular sampai hampir ke eskalator. Tenang tempat duduk/meja selalu tersedia, stafnya selalu cepat dan tanggap membersihkan meja yang barusan kosong.","hokben rame pas sabtu minggu libur nasional, makan antrinya mengular eskalator. tenang duduk/meja tersedia, stafnya cepat tanggap membersihkan meja barusan kosong.",0.0,0
+"enak bgt dagingnya, teksturnya lembut kerasa bgt deh bumbunya","enak bgt dagingnya, teksturnya lembut kerasa bgt deh bumbunya",0.0,0
+"enak, dpt voucher jd makan lebih banyak","enak, dpt voucher jd makan",0.0,0
+Nasi nya lebih enak di MER d,nasi nya enak mer d,0.0,0
+"View nya bagus,tempat nya bersih.","view nya bagus,tempat nya bersih.",0.0,0
+Pelayanan memuaskan👍🏻 jangan lupa juga mampir dan belanja ke THYS Lt. 2 banyak koleksi tas cakep dan promo menarik😍 …,pelayanan memuaskan👍🏻 lupa mampir belanja thys lt. 2 koleksi tas cakep promo menarik😍 …,0.0,0
+"Baru aja kemaren maret 2022 kesini kasirnya jutek banget dan minta nambah saos sambel 3 biji cuma dikasih 1, astaga pelit bgt, dan terakhir makan gubisnya dikit bgt, pdhl biasanya gak gini sih di royal 😔 …","aja kemaren maret 2022 kesini kasirnya jutek banget nambah saos sambel 3 biji dikasih 1, astaga pelit bgt, makan gubisnya dikit bgt, pdhl gak gini sih royal 😔 …",0.0,0
+Andalan dr dulu bwt makanan jepang. Ada menu baru butter miso beef..enak bgt menurut sy.,andalan dr bwt makanan jepang. menu butter miso beef..enak bgt sy.,0.0,0
+"1. tempatnya ada di langai G (dasar) pojok selatan, sebelah yoshinoya 2. gak begitu luas, biasalah kan di dalam mall 3. lumayan banyak variasi menu, tapi mirip² jadi agak membingungkan …","1. tempatnya langai g (dasar) pojok selatan, sebelah yoshinoya 2. gak luas, biasalah mall 3. lumayan variasi menu, mirip² membingungkan …",0.0,0
+Selalu ramai,ramai,0.0,0
+Enak nyaman n view street nya enak apa lg saat hujan turun,enak nyaman n view street nya enak lg hujan turun,0.0,0
+"Restoran makanan ala jepang cepat saji yang cukup terkenal hampir selalu ramai di jam-jam makan. Terutama jika Anda mengunjungi di saat bulan Ramadhan, dipastikan Anda perlu untuk mengambil antrian untuk berada di daftar tunggu terlebih …","restoran makanan ala jepang cepat saji terkenal ramai jam-jam makan. mengunjungi ramadhan, mengambil antrian daftar tunggu …",0.0,0
+Bento paling the best. Apalagi saladnya mantul,bento the best. saladnya mantul,0.6369,1
+Pelayanan lemot banget yaaa. Hadeeehh jd mikir2 klo mau makan disini lg. Kecuali klo ga ada yg antri. Antrian 4 customer aja 1/2 jam sendiri. Tolong perbaiki deh,pelayanan lemot banget yaaa. hadeeehh jd mikir2 klo makan lg. kecuali klo ga yg antri. antrian 4 customer aja 1/2 jam sendiri. tolong perbaiki deh,0.0,0
+"Waktu kami makan disini, nasinya terasa kurang segar, seperti terlalu lama di dalam penghangat dan tidak wangi seperti di cabang2 yang saya pernah coba di sekitaran Jakarta, Depok, Bogor. Apakah hanya di cabang ini saja atau cabang di luar …","makan disini, nasinya segar, penghangat wangi cabang2 coba sekitaran jakarta, depok, bogor. cabang cabang …",0.0,0
+Resto gatel. Mall belum buka tapi aplikasi food online di nyalakan. Resto di telfon tidak di angkat malah di matikan.,resto gatel. mall buka aplikasi food online nyalakan. resto telfon angkat matikan.,0.0,0
+"Tempàtnya gampang diketahui, masuk Royal mall lewat pintu depan, langsung belik kiri terus sampai di ujung ketemu langsung restorannya. Suasananya nyaman karena diujung roral dengan dinding kaca yang tembus pandang ke luar langsung ke jalan …","tempàtnya gampang diketahui, masuk royal mall pintu depan, langsung belik kiri ujung ketemu langsung restorannya. suasananya nyaman diujung roral dinding kaca tembus pandang langsung jalan …",0.0,0
+"Bicara soal Frenchies maka dimanapun harga dan rasa bisa dipastikan sama, yang berbeda hanyalah tempat dan lokasinya. saya suka hokben di Royal karena tempatnya tepat pada sisi gedung, dan juga ada jendela kaca yang cukup besar. Menurut …","bicara frenchies dimanapun harga sama, berbeda lokasinya. suka hokben royal tempatnya sisi gedung, jendela kaca besar. …",0.0,0
+Kalau sepi ya bukan Royal Plaza,sepi ya royal plaza,0.0,0
+"Tempatnya pinggir, jadi bisa liat jalan. Apalagi pas ujan, makin betah hahaha","tempatnya pinggir, liat jalan. pas ujan, betah hahaha",0.5574,1
+"Royal mah gk pernah sepi... kalau pas romadhon, pengen buka puasa di royal udah harus cari kursi abis ashar... Dan biasanya saya kesini untuk nonton film di bioskopnya.","royal mah gk sepi... pas romadhon, pengen buka puasa royal udah cari kursi abis ashar... kesini nonton film bioskopnya.",0.0,0
+"Belum pernah makan disana sih, tapi ya bolehlah saya kasih rate 5 semua penilaiannya","makan disana sih, ya kasih rate 5 penilaiannya",0.0,0
+"fast food ala jepang yang menyediakan menu bento. ada banyak pilihan gorengan dan daging atau ayam yang dimasak teriyaki atau yakiniku. ada menu kidzubento, dapat bonus mainan untuk anak-anak.disini sering ramai dan antriannya panjang. posisinya ada di pojokan royal plaza, jadi dari dalam bisa lihat ke arah jalan.","fast food ala jepang menyediakan menu bento. pilihan gorengan daging ayam dimasak teriyaki yakiniku. menu kidzubento, bonus mainan anak-anak.disini ramai antriannya panjang. posisinya pojokan royal plaza, lihat arah jalan.",0.5423,1
+"Pemandangan keluar sangat keren. Tempatnya di pinggir jadi bisa lihat lalu lalang jalan a yani yg lebar pakai banget ( 12 LAJUR FRIENDS..., DI INDONESIA , YANG LEBIH BANYAK ADAKAH ? )","pemandangan keren. tempatnya pinggir lihat lalang jalan a yani yg lebar pakai banget ( 12 lajur friends..., indonesia , adakah ? )",0.0,0
+"Menu hokben disini sama dengan yang lainnya, tapi yang khas adalah lokasinya, terletak di lantai 2 royal plaza surabaya dengan pemandangan kaca lebar hook pojok selatan sehingga mendapat pemandangan bebas ke jalan raya Ahmad Yani Surabaya..","menu hokben lainnya, khas lokasinya, terletak lantai 2 royal plaza surabaya pemandangan kaca lebar hook pojok selatan pemandangan bebas jalan raya ahmad yani surabaya..",0.0,0
+Resto masakan Jepang yang nagih!,resto masakan jepang nagih!,0.0,0
+"Tempat favorit keluarga, rasanya enak, pesan menu paket harganya lebih murah daripada pesan menu secara terpisah, pelayanan ramah dan cepat, bersih dan nyaman.","favorit keluarga, enak, pesan menu paket harganya murah pesan menu terpisah, pelayanan ramah cepat, bersih nyaman.",0.0,0
+Pelayanan yang cepat tanggap dan ramah bet dah wkwk kalo soal rasa hmmm semua sudah tau lah yaaa,pelayanan cepat tanggap ramah bet dah wkwk kalo hmmm tau yaaa,0.0,0
+"Minggu 31 Desember 2023, kenapa kasir sangat lemot sekali","minggu 31 desember 2023, kasir lemot",0.0,0
+"secara pelayanan cukup memuaskan, tapi untuk meja yang selesai dipakai terkadang terlambat dibersihkan. Nilai tambahnya disini bisa melihat pemandangan jalanan luar royal plaza","pelayanan memuaskan, meja selesai dipakai terkadang terlambat dibersihkan. nilai pemandangan jalanan royal plaza",0.0,0
+Tempatnya bersih meski berada di paling pojok tapi terang karena menghadap jalan raya langsung. Kalau dibuat menikmati makanan enak sekali. Makanannya juga enak,tempatnya bersih pojok terang menghadap jalan raya langsung. menikmati makanan enak sekali. makanannya enak,0.0,0
+"Sebenarnya enak kalau ke sini weekday, kalau weekend so pasti antri maksimall 😞😞😞 Anyway, ochanya free flow dan ada menu anak2 yg kadang juga dapet mainan 🐰🐰🐰 …","enak weekday, weekend so antri maksimall 😞😞😞 anyway, ochanya free flow menu anak2 yg kadang dapet mainan 🐰🐰🐰 …",0.5106,1
+Tempat bersih dan rapi dan juga menu yang di hidangkan tidak kalah dengan restoran makanan cepat saji lainnya terutama dengan menu jepang sebagai main course .... Untuk harganya lumayan terjangkau lah...,bersih rapi menu hidangkan kalah restoran makanan cepat saji menu jepang main course .... harganya lumayan terjangkau lah...,0.0,0
+"Staff yang bertugas saat sore Hari (3 Maret 2022) kurang, antrian sampai keluar outlet... Layanan lama :-(","staff bertugas sore (3 maret 2022) kurang, antrian outlet... layanan :-(",-0.6124,0
+Makanannya yummy harga bisa disesuaikan kantong. Tempat bersih dan nyaman. Menunya tidak membosankan Wajib mampir tiap ke royal plaza sby,makanannya yummy harga disesuaikan kantong. bersih nyaman. menunya membosankan wajib mampir royal plaza sby,0.5267,1
+Kalo makan Hokben uda ga perlu d tanya sii ini... Enak pake banget... Paling favorit Egg Chicken Roll nya... Always beli yg ini... 👍👍👍👍 …,kalo makan hokben uda ga d sii ini... enak pake banget... favorit egg chicken roll nya... always beli yg ini... 👍👍👍👍 …,0.0,0
+Banyak menu varian paket yang tersedia Mungkin perlu ada varian minuman yg lebih terjangkau dan umum seperti di restoran fast food lainnya,menu varian paket tersedia varian minuman yg terjangkau restoran fast food,0.0,0
+"Saya kasih bintang 3, karena bulan ini tahap renovasi, take away semua. Terpaksa makan di food court , dari tempat lantai dasar naik smp lantai atas.","kasih bintang 3, tahap renovasi, take away semua. terpaksa makan food court , lantai dasar smp lantai atas.",0.0,0
+"Menu lengkap, rasa gak usah di tanya enaknya gmn... pelayanan juga cepat, temoat bersih","menu lengkap, gak enaknya gmn... pelayanan cepat, temoat bersih",0.0,0
+"Harus pilih waktu yang tepat, agar tidak berdesakan dengan pengunjung yang lain","pilih tepat, berdesakan pengunjung",0.0,0
+Entah kenapa suami saya lebih suka makan di hokben royal padahal ada yg lebih deket dari rumah tp dia bilang lebih enak rasanya kl yg di hokben royal 😅 …,suami suka makan hokben royal yg deket rumah tp bilang enak kl yg hokben royal 😅 …,0.0,0
+"Mungkin karena terlalu rame kali ya... jadi mejanya ga ready, duduk sambil tersaji bekas makanan orang sebelumnya","rame kali ya... mejanya ga ready, duduk tersaji bekas makanan orang",0.3612,1
+"Staff nya ramah ramah🙌 tempatnya strategis, dekat toilet, dekat musholla, dekat eskalator, juga ditambah streetview yang oke👍 soal rasa ⭐⭐⭐⭐⭐ …","staff nya ramah ramah🙌 tempatnya strategis, toilet, musholla, eskalator, ditambah streetview oke👍 ⭐⭐⭐⭐⭐ …",0.0,0
+"Japanese food yang bisa jadi salah satu pilihan makan bagi keluarga dan anak-anak. Harga sepadan dengan makanan,suasana cukup nyaman,pilihan menu cukup lengkap.","japanese food salah pilihan makan keluarga anak-anak. harga sepadan makanan,suasana nyaman,pilihan menu lengkap.",0.0,0
+Value set selalu terfavorit,value set terfavorit,0.34,1
+Mantap👍 …,mantap👍 …,0.0,0
+Menu standart sama dengan hokben lainnya. Nilai plus pada tempatnya ada sisi dekat jendela yang bisa melihat keluar,menu standart hokben lainnya. nilai plus tempatnya sisi jendela,0.0,0
+"Disini juga salah satu cabang Hokben yang asik buat nongkrong. Jika anda duduk dekat jendela, bisa melihat jalanan Surabaya sebagai pemandangan.","salah cabang hokben asik nongkrong. duduk jendela, jalanan surabaya pemandangan.",0.0,0
+"Setiap saya pulang ke surabaya pasti ke hokben, dikarenakan di NTB gak ada buka HOKBEN, klo bisa buka donk di Mataram, Lombok, NTB, biar gak nuggu harus pulang dulu ke surabaya baru bisa mkan Hokben","pulang surabaya hokben, ntb gak buka hokben, klo buka donk mataram, lombok, ntb, biar gak nuggu pulang surabaya mkan hokben",0.0,0
+mantap jiwa👍👍👍👍... menu nya bagi saya cukup sederhana... tapi tetap jadi idola keluarga terutama bagi anak anak saya...🙏🙏 …,mantap jiwa👍👍👍👍... menu nya sederhana... idola keluarga anak anak saya...🙏🙏 …,0.0,0
+"Tmpat ni lngganan klo lgi jln"" ke royal plaza.rsanya kurang puas klo blum kesini..mknannya lumyan g terllu mhal rasanya juga enak.","tmpat ni lngganan klo lgi jln"" royal plaza.rsanya puas klo blum kesini..mknannya lumyan g terllu mhal enak.",0.0,0
+"Tempatny dipojok tapi viewnya bisa melihat royal dati atas,masakannya enak gk mbosenin seperti fastfood lain","tempatny dipojok viewnya royal dati atas,masakannya enak gk mbosenin fastfood",0.0,0
+Tempat dgn.view bagus bisa melihat k jln raya..untuk kumpul2 juga dgn anak2 bisa..pelayanannya cepat..,dgn.view bagus k jln raya..untuk kumpul2 dgn anak2 bisa..pelayanannya cepat..,0.0,0
+Pegawai lelet,pegawai lelet,0.0,0
+Kualitas pelayanannya masih lebih baik dan dari segi menu bahannya komplit ketimbang yang berada di polis istimewa,kualitas pelayanannya segi menu bahannya komplit ketimbang polis istimewa,0.0,0
+pelayanan buruk,pelayanan buruk,0.0,0
+Anak² demen,anak² demen,0.0,0
+"Tempatnya enak, mas mbaknya juga ramah. Tapi bbrp menu sering kosong pas jam sibuk.","tempatnya enak, mas mbaknya ramah. bbrp menu kosong pas jam sibuk.",0.0,0
+Enak buat nongkrong,enak nongkrong,0.0,0
+Khusus take away Pelayanan lama banget,khusus take away pelayanan banget,0.0,0
+Tempatnya asik kalo di deket jendela dengan pemandangan jalan surabaya.. Lucu aja makan sambil liat macet2an hehe ✌,tempatnya asik kalo deket jendela pemandangan jalan surabaya.. lucu aja makan liat macet2an hehe ✌,0.0,0
+"Tempatnya enak, bersih dan nyaman... Karyawan ramah2 good the best....","tempatnya enak, bersih nyaman... karyawan ramah2 good the best....",0.4404,1
+Menjadi salah satu pilihan tempat makanan jika di royal plaza dan bisa melihat lalu lintas di jalan ahmad yani,salah pilihan makanan royal plaza lintas jalan ahmad yani,0.0,0
+Bisa melihat pemandangan di luar,pemandangan,0.0,0
+Kalau ke royal lebih sering makan disini. Yg udah pasti nyaman di lidah tapi gak bikin kantong bolong.. 😁 …,royal makan disini. yg udah nyaman lidah gak bikin kantong bolong.. 😁 …,0.0,0
+Makanannya enak dan terjangkau,makanannya enak terjangkau,0.0,0
+Pas buka puasa ruaaame kaliii..bisa2 g dapet tempat duduk...mesti antri dari jm 4,pas buka puasa ruaaame kaliii..bisa2 g dapet duduk...mesti antri jm 4,0.0,0
+Kalo butuh fast food pasti pilih hokben pelayanan cepat jd kalo antri ga lama2 🤩 …,kalo butuh fast food pilih hokben pelayanan cepat jd kalo antri ga lama2 🤩 …,0.0,0
+"Makannya enak, menjadi pilihan yang tepat saat ingin makanan cepat saji yang berbeda","makannya enak, pilihan makanan cepat saji berbeda",0.0,0
+Hokben tempat makan favorit. Di toko sini selalu rame.. karena lokasinya yang strategis di mall yang tidak pernah sepi.,hokben makan favorit. toko rame.. lokasinya strategis mall sepi.,0.0,0
+Pekerjanya ramah dan sangat membantu untuk mecarikan tempat duduk customers pada saat tempat ramai pengunjung.,pekerjanya ramah membantu mecarikan duduk customers ramai pengunjung.,0.0,0
+Tempatnya bersih ..Lokasinya enak.. bisa melihat pemandangan luar dengan leluasa...,tempatnya bersih ..lokasinya enak.. pemandangan leluasa...,0.0,0
+Ocha gratis sepuasnya dan gak pernah sepi sih. saben makan disini suka sama view nya,ocha gratis sepuasnya gak sepi sih. saben makan suka view nya,0.0516,1
+Saya suka makan di hokben,suka makan hokben,0.0,0
+Makan sambil nikmati suasana mall sby,makan nikmati suasana mall sby,0.0,0
+Tempatnya nyaman karena berada dipinggir mall sehingga dapat melihat pemandangan luar,tempatnya nyaman dipinggir mall pemandangan,0.0,0
+"Tempat bersih. Pelayanannya sigap, kalo antrian cukup panjang pelayan-pelayan lainnya sigap melayani orderan customer.","bersih. pelayanannya sigap, kalo antrian pelayan-pelayan sigap melayani orderan customer.",0.0,0
+"Buat pilihan makan siang enak tuh, tempat okelah, pelayanan lumayan","pilihan makan siang enak tuh, okelah, pelayanan lumayan",0.0,0
+"Tempat makan favorit keluarga, harga paket paling murah dibanding dengan yang ainnya","makan favorit keluarga, harga paket murah dibanding ainnya",0.0,0
+From indonesia jangan salah sangka nih,from indonesia salah sangka nih,0.0,0
+"Lokasi bagus tapi tempatnya agak gelap dan sedikit kotor, mungkin bisa ditambah penerangannya","lokasi bagus tempatnya gelap kotor, ditambah penerangannya",0.0,0
+View nya bagus,view nya bagus,0.0,0
+"Pelayanannya agak lama ya,,kurang cepat2an ,,jd yg antri sampek kesel lihat nya,","pelayanannya ya,,kurang cepat2an ,,jd yg antri sampek kesel lihat nya,",0.0,0
+Pelayanan cepat dan tempat duduk banyak sehingga tidak perlu bingung untuk bingung datang berapa orang,pelayanan cepat duduk bingung bingung orang,0.0,0
+Jalan2 ke Royal Plaza gak Afdol kalau gak makan HOKBEN....hemmm Nyummi,jalan2 royal plaza gak afdol gak makan hokben....hemmm nyummi,0.0,0
+"tempat nyaman, porsi lumayan banyak dibanding outlet hokben yang lain","nyaman, porsi lumayan dibanding outlet hokben",0.0,0
+Nyaman bagus luas cuma kalau bisa pelayanan bisa ditingkatkan,nyaman bagus luas pelayanan ditingkatkan,0.0,0
+Tempat makan utk keluarga. Sebagai alternatif makanan selain fried chicken,makan utk keluarga. alternatif makanan fried chicken,0.0,0
+"Over All memuaskan, varian makanannya banyak","over all memuaskan, varian makanannya",0.0,0
+"Sayang tempat duduknya kurang,jadi pengunjung yg mau beli gak jadi beli","sayang duduknya kurang,jadi pengunjung yg beli gak beli",0.0,0
+"Junkfood terjuara, sayang diarea dekat wastafel tercium aroma"" tidak sedap.","junkfood terjuara, sayang diarea wastafel tercium aroma"" sedap.",0.0,0
+Tmpt nx strategis n bs lht view k luar,tmpt nx strategis n bs lht view k,0.0,0
+Ruangan terlalu sempit padahal pengunjung ramai. Perlu pelebaran ruangan,ruangan sempit pengunjung ramai. pelebaran ruangan,0.0,0
+"Makananya khas enak,, tempatnya nyaman, suasananya asik..","makananya khas enak,, tempatnya nyaman, suasananya asik..",0.0,0
+Pelayanan kurang bagus apalagi pelayan pria. Gak standar.,pelayanan bagus pelayan pria. gak standar.,0.0,0
+Hokben paket hemat plus tahu goreng makan bersama keluarga,hokben paket hemat plus goreng makan keluarga,0.0,0
+"Not too good, porsinya lebih sedikit dari hokben lain","not too good, porsinya hokben",-0.3412,0
+Sesuai.. enak. Paling suka paket teriyaki,sesuai.. enak. suka paket teriyaki,0.0,0
+"Lokasi strategis Cocok untuk meet up bareng tmen""","lokasi strategis cocok meet up bareng tmen""",0.0,0
+Porsinya mantab sudah cukup buat kenyang,porsinya mantab kenyang,0.0,0
+"Staffnya ramah², jadi nyaman bgt tiap kesini","staffnya ramah², nyaman bgt kesini",0.0,0
+Enak dan tempanya nyaman sambil istirahat dr.belanja,enak tempanya nyaman istirahat dr.belanja,0.0,0
+Tempat makan yg banyak disukai masyarakat,makan yg disukai masyarakat,0.0,0
+Pilihan yang sesuai untuk selera masakan jepang,pilihan sesuai selera masakan jepang,0.0,0
+Enak nikmat,enak nikmat,0.0,0
+Masih harus antri lama jika di hari libur.,antri libur.,0.0,0
+Acar bento yang lezat selalu ada di sini saat Anda lelah berbelanja,acar bento lezat lelah berbelanja,0.0,0
+Taman paling keren di Surabaya,taman keren surabaya,0.0,0
+"Enak, pelayan ramah, dan tidak terlalu ramai","enak, pelayan ramah, ramai",0.0,0
+Saya suka menu bento di sini.,suka menu bento sini.,0.0,0
+Dapat dijadikan pilihan untuk teman dan keluarga,dijadikan pilihan teman keluarga,0.0,0
+Asyiknya makan bersama keluarga,asyiknya makan keluarga,0.0,0
+Selalu ramai hingga malam hari,ramai malam,0.0,0
+Dan sejuj,sejuj,0.0,0
+Selesaikan dan tutup,selesaikan tutup,0.0,0
+Tempat yang nyaman,nyaman,0.0,0
+Menyukainya,menyukainya,0.0,0
+dalam keadaan gadai,gadai,0.0,0
+Saya menyukainya,menyukainya,0.0,0
+Pelayanan bagus,pelayanan bagus,0.0,0
+makanan favoritku,makanan favoritku,0.0,0
+Enakkkkk,enakkkkk,0.0,0
+hoki standar,hoki standar,0.0,0
+Makanan cepat saji,makanan cepat saji,0.0,0
+Mantaab,mantaab,0.0,0
+Tuhan,tuhan,0.0,0
+Wow,wow,0.5859,1
+Di Hok,hok,0.0,0
+sama,,0.0,0
+Oke,oke,0.0,0
+Tembaga,tembaga,0.0,0
+Terima kasih...,terima kasih...,0.0,0
+h0kben aku menyukainya. . .,h0kben menyukainya. . .,0.0,0
+Eaaaaaaaaaaaaaaaaaaaaaaaaaaaa...,eaaaaaaaaaaaaaaaaaaaaaaaaaaaa...,0.0,0
+Hmmm nyami,hmmm nyami,0.0,0
+Enaaaaak...........,enaaaaak...........,0.0,0
+lezat,lezat,0.0,0
+Soooooooooooooooooooooooooooooooooooooooooooooooooooo,soooooooooooooooooooooooooooooooooooooooooooooooooooo,0.0,0
